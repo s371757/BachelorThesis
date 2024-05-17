@@ -1,9 +1,6 @@
 import numpy as np
 from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
-from skimage.segmentation import mark_boundaries
-from skimage.transform import resize
-from transformers import AutoFeatureExtractor, AutoModel
+from transformers import  AutoTokenizer, AutoImageProcessor, AutoModel
 import slic_segmentation 
 
 from datastructures import Cluster

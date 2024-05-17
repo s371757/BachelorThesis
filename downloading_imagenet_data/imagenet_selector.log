@@ -1,0 +1,2 @@
+INFO:root:Starting ImageNet random image selector
+INFO:root:Loading ImageNet dataset from Hugging Face

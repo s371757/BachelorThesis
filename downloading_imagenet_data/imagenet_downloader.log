@@ -1,0 +1,348 @@
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Total images needed: 2
+INFO:root:Gathering URLs from ImageNet API
+INFO:root:Total URLs gathered: 63
+INFO:root:Selected 2 URLs for downloading
+INFO:root:Creating folder random500_0 with 1 images
+INFO:root:Creating folder random500_1 with 1 images
+INFO:root:Image downloading completed
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Total images needed: 2
+INFO:root:Gathering URLs from predefined list
+INFO:root:Selected 2 URLs for downloading
+INFO:root:Creating folder random500_0 with 1 images
+INFO:root:Creating folder random500_1 with 1 images
+INFO:root:Image downloading completed
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Loading class info from 'c:\Users\Julia\Documents\Coding_Projects\BA\ImageNet-Datasets-Downloader\imagenet_class_info.json'
+INFO:root:Loaded class info for 21841 classes
+INFO:root:Total images needed: 2500
+INFO:root:Gathering URLs from ImageNet API
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Loading class info from 'c:\Users\Julia\Documents\Coding_Projects\BA\ImageNet-Datasets-Downloader\imagenet_class_info.json'
+INFO:root:Loaded class info for 21841 classes
+INFO:root:Total images needed: 4
+INFO:root:Gathering URLs from ImageNet API
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Loading class info from 'c:\Users\Julia\Documents\Coding_Projects\BA\ImageNet-Datasets-Downloader\imagenet_class_info.json'
+INFO:root:Loaded class info for 21841 classes
+INFO:root:Total images needed: 2500
+INFO:root:Gathering URLs from ImageNet API
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Loading class info from 'c:\Users\Julia\Documents\Coding_Projects\BA\ImageNet-Datasets-Downloader\imagenet_class_info.json'
+INFO:root:Loaded class info for 21841 classes
+INFO:root:Total images needed: 4
+INFO:root:Gathering URLs from ImageNet API
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Loading class info from 'c:\Users\Julia\Documents\Coding_Projects\BA\ImageNet-Datasets-Downloader\imagenet_class_info.json'
+INFO:root:Loaded class info for 21841 classes
+INFO:root:Total images needed: 2500
+INFO:root:Creating folder random500_0 with images from 50 classes
+INFO:root:Scraping images for class "foundation garment"
+INFO:root:Total URLs to process for class 'foundation garment': 358
+INFO:root:Scraping images for class "conservator"
+INFO:root:Total URLs to process for class 'conservator': 87
+INFO:root:Scraping images for class "poacher"
+INFO:root:Total URLs to process for class 'poacher': 223
+INFO:root:Scraping images for class "dolman sleeve"
+INFO:root:Total URLs to process for class 'dolman sleeve': 126
+INFO:root:Scraping images for class "temple orange"
+INFO:root:Total URLs to process for class 'temple orange': 270
+INFO:root:Scraping images for class "black-stem spleenwort"
+INFO:root:Total URLs to process for class 'black-stem spleenwort': 47
+INFO:root:Scraping images for class "shelf"
+INFO:root:Total URLs to process for class 'shelf': 1412
+INFO:root:Scraping images for class "screen"
+INFO:root:Total URLs to process for class 'screen': 1335
+INFO:root:Scraping images for class "Connecticuter"
+INFO:root:Total URLs to process for class 'Connecticuter': 56
+INFO:root:Scraping images for class "ichneumon fly"
+INFO:root:Total URLs to process for class 'ichneumon fly': 987
+INFO:root:Scraping images for class "silage"
+INFO:root:Total URLs to process for class 'silage': 684
+INFO:root:Scraping images for class "fur coat"
+INFO:root:Total URLs to process for class 'fur coat': 1397
+INFO:root:Scraping images for class "disposal"
+INFO:root:Total URLs to process for class 'disposal': 999
+INFO:root:Scraping images for class "royal mast"
+INFO:root:Total URLs to process for class 'royal mast': 950
+INFO:root:Scraping images for class "private citizen"
+INFO:root:Total URLs to process for class 'private citizen': 174
+INFO:root:Scraping images for class "clip-on"
+INFO:root:Total URLs to process for class 'clip-on': 246
+INFO:root:Scraping images for class "Jat"
+INFO:root:Starting ImageNet random image downloader
+INFO:root:Loading class info from 'c:\Users\Julia\Documents\Coding_Projects\BA\ImageNet-Datasets-Downloader\imagenet_class_info.json'
+INFO:root:Loaded class info for 21841 classes
+INFO:root:Total images needed: 2500
+INFO:root:Creating folder random500_0 with images from 50 classes
+INFO:root:Scraping images for class "moussaka"
+INFO:root:Total URLs to process for class 'moussaka': 737
+INFO:root:Scraping images for class "mildew"
+INFO:root:Total URLs to process for class 'mildew': 1229
+INFO:root:Scraping images for class "yellow rocket"
+INFO:root:Total URLs to process for class 'yellow rocket': 908
+INFO:root:Scraping images for class "harbor"
+INFO:root:Total URLs to process for class 'harbor': 1184
+INFO:root:Scraping images for class "cecropia"
+INFO:root:Total URLs to process for class 'cecropia': 983
+INFO:root:Scraping images for class "augur"
+INFO:root:Total URLs to process for class 'augur': 158
+INFO:root:Scraping images for class "florist's chrysanthemum"
+INFO:root:Total URLs to process for class 'florist's chrysanthemum': 1235
+INFO:root:Scraping images for class "hammer"
+INFO:root:Total URLs to process for class 'hammer': 428
+INFO:root:Scraping images for class "pearl hominy"
+INFO:root:Total URLs to process for class 'pearl hominy': 80
+INFO:root:Scraping images for class "Gabonese"
+INFO:root:Total URLs to process for class 'Gabonese': 449
+INFO:root:Scraping images for class "goat antelope"
+INFO:root:Total URLs to process for class 'goat antelope': 305
+INFO:root:Scraping images for class "supercharger"
+INFO:root:Total URLs to process for class 'supercharger': 287
+INFO:root:Scraping images for class "salmagundi"
+INFO:root:Total URLs to process for class 'salmagundi': 668
+INFO:root:Scraping images for class "Illinoisan"
+INFO:root:Total URLs to process for class 'Illinoisan': 265
+INFO:root:Scraping images for class "western lowland gorilla"
+INFO:root:Total URLs to process for class 'western lowland gorilla': 1566
+INFO:root:Scraping images for class "strip mall"
+INFO:root:Total URLs to process for class 'strip mall': 61
+INFO:root:Scraping images for class "delicatessen"
+INFO:root:Total URLs to process for class 'delicatessen': 1180
+INFO:root:Scraping images for class "cobweb"
+INFO:root:Total URLs to process for class 'cobweb': 243
+INFO:root:Scraping images for class "jump suit"
+INFO:root:Total URLs to process for class 'jump suit': 217
+INFO:root:Scraping images for class "mallee fowl"
+INFO:root:Total URLs to process for class 'mallee fowl': 119
+INFO:root:Scraping images for class "goldenbush"
+INFO:root:Total URLs to process for class 'goldenbush': 150
+INFO:root:Scraping images for class "interstellar space"
+INFO:root:Total URLs to process for class 'interstellar space': 305
+INFO:root:Scraping images for class "California wine"
+INFO:root:Total URLs to process for class 'California wine': 1199
+INFO:root:Scraping images for class "tiger snake"
+INFO:root:Total URLs to process for class 'tiger snake': 527
+INFO:root:Scraping images for class "myriapod"
+INFO:root:Total URLs to process for class 'myriapod': 298
+INFO:root:Scraping images for class "Meuniere butter"
+INFO:root:Total URLs to process for class 'Meuniere butter': 2
+INFO:root:Scraping images for class "burp gun"
+INFO:root:Total URLs to process for class 'burp gun': 1127
+INFO:root:Scraping images for class "brae"
+INFO:root:Total URLs to process for class 'brae': 784
+INFO:root:Scraping images for class "treadmill"
+INFO:root:Total URLs to process for class 'treadmill': 1231
+INFO:root:Scraping images for class "courthouse"
+INFO:root:Total URLs to process for class 'courthouse': 1209
+INFO:root:Scraping images for class "prickly pear"
+INFO:root:Total URLs to process for class 'prickly pear': 1022
+INFO:root:Scraping images for class "bombazine"
+INFO:root:Total URLs to process for class 'bombazine': 110
+INFO:root:Scraping images for class "American widgeon"
+INFO:root:Total URLs to process for class 'American widgeon': 1069
+INFO:root:Scraping images for class "vinifera grape"
+INFO:root:Total URLs to process for class 'vinifera grape': 693
+ERROR:urllib3.connection:Certificate did not match expected hostname: pss.uvm.edu. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'Vermont'),), (('organizationName', 'University of Vermont'),), (('commonName', 'www.uvm.edu'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Internet2'),), (('commonName', 'InCommon RSA Server CA 2'),)), 'version': 3, 'serialNumber': 'AACE659069A4ED045ABAFFCA5A51E530', 'notBefore': 'May 10 00:00:00 2024 GMT', 'notAfter': 'May 10 23:59:59 2025 GMT', 'subjectAltName': (('DNS', 'www.uvm.edu'),), 'OCSP': ('http://ocsp.sectigo.com',), 'caIssuers': ('http://crt.sectigo.com/InCommonRSAServerCA2.crt',), 'crlDistributionPoints': ('http://crl.sectigo.com/InCommonRSAServerCA2.crl',)}
+INFO:root:Scraping images for class "spanker"
+INFO:root:Total URLs to process for class 'spanker': 539
+INFO:root:Scraping images for class "airbrush"
+INFO:root:Total URLs to process for class 'airbrush': 453
+INFO:root:Scraping images for class "Japanese black pine"
+INFO:root:Total URLs to process for class 'Japanese black pine': 1255
+INFO:root:Scraping images for class "pomegranate"
+INFO:root:Total URLs to process for class 'pomegranate': 1195
+INFO:root:Scraping images for class "taco sauce"
+INFO:root:Total URLs to process for class 'taco sauce': 191
+INFO:root:Scraping images for class "lorchel"
+INFO:root:Total URLs to process for class 'lorchel': 110
+INFO:root:Scraping images for class "gaff"
+INFO:root:Total URLs to process for class 'gaff': 338
+INFO:root:Scraping images for class "hemline"
+INFO:root:Total URLs to process for class 'hemline': 1384
+INFO:root:Scraping images for class "daisybush"
+INFO:root:Total URLs to process for class 'daisybush': 416
+INFO:root:Scraping images for class "naval gun"
+INFO:root:Total URLs to process for class 'naval gun': 542
+INFO:root:Scraping images for class "refectory"
+INFO:root:Total URLs to process for class 'refectory': 1240
+INFO:root:Scraping images for class "Polyporus squamosus"
+INFO:root:Total URLs to process for class 'Polyporus squamosus': 906
+INFO:root:Scraping images for class "piano keyboard"
+INFO:root:Total URLs to process for class 'piano keyboard': 1602
+INFO:root:Scraping images for class "biretta"
+INFO:root:Total URLs to process for class 'biretta': 282
+INFO:root:Scraping images for class "nursery"
+INFO:root:Total URLs to process for class 'nursery': 1104
+INFO:root:Scraping images for class "brown trout"
+INFO:root:Total URLs to process for class 'brown trout': 1383
+INFO:root:Creating folder random500_1 with images from 50 classes
+INFO:root:Scraping images for class "webcam"
+INFO:root:Total URLs to process for class 'webcam': 1058
+INFO:root:Scraping images for class "hepatica"
+INFO:root:Total URLs to process for class 'hepatica': 1636
+INFO:root:Scraping images for class "beaver"
+INFO:root:Total URLs to process for class 'beaver': 893
+INFO:root:Scraping images for class "wild boar"
+INFO:root:Total URLs to process for class 'wild boar': 1283
+INFO:root:Scraping images for class "prickly poppy"
+INFO:root:Total URLs to process for class 'prickly poppy': 1094
+INFO:root:Scraping images for class "comfrey"
+INFO:root:Total URLs to process for class 'comfrey': 760
+INFO:root:Scraping images for class "pin"
+INFO:root:Total URLs to process for class 'pin': 638
+INFO:root:Scraping images for class "living quarters"
+INFO:root:Total URLs to process for class 'living quarters': 1248
+INFO:root:Scraping images for class "pomade"
+INFO:root:Total URLs to process for class 'pomade': 1103
+INFO:root:Scraping images for class "school system"
+INFO:root:Total URLs to process for class 'school system': 330
+INFO:root:Scraping images for class "brick"
+INFO:root:Total URLs to process for class 'brick': 947
+INFO:root:Scraping images for class "brew"
+INFO:root:Total URLs to process for class 'brew': 1238
+INFO:root:Scraping images for class "wisent"
+INFO:root:Total URLs to process for class 'wisent': 1111
+INFO:root:Scraping images for class "channel catfish"
+INFO:root:Total URLs to process for class 'channel catfish': 1058
+INFO:root:Scraping images for class "power pack"
+INFO:root:Total URLs to process for class 'power pack': 270
+INFO:root:Scraping images for class "futon"
+INFO:root:Total URLs to process for class 'futon': 1381
+INFO:root:Scraping images for class "promulgator"
+INFO:root:Total URLs to process for class 'promulgator': 402
+INFO:root:Scraping images for class "yellow pine"
+INFO:root:Total URLs to process for class 'yellow pine': 576
+INFO:root:Scraping images for class "lyrebird"
+INFO:root:Total URLs to process for class 'lyrebird': 554
+INFO:root:Scraping images for class "buttercup"
+INFO:root:Total URLs to process for class 'buttercup': 1244
+INFO:root:Scraping images for class "boot"
+INFO:root:Total URLs to process for class 'boot': 1260
+INFO:root:Scraping images for class "cafeteria"
+INFO:root:Total URLs to process for class 'cafeteria': 1257
+INFO:root:Scraping images for class "genipap fruit"
+INFO:root:Total URLs to process for class 'genipap fruit': 59
+INFO:root:Scraping images for class "bass clarinet"
+INFO:root:Total URLs to process for class 'bass clarinet': 718
+INFO:root:Scraping images for class "sweater"
+INFO:root:Total URLs to process for class 'sweater': 1403
+INFO:root:Scraping images for class "Indiaman"
+INFO:root:Total URLs to process for class 'Indiaman': 274
+INFO:root:Scraping images for class "fast food"
+INFO:root:Total URLs to process for class 'fast food': 889
+INFO:root:Scraping images for class "spiritual leader"
+INFO:root:Total URLs to process for class 'spiritual leader': 1214
+INFO:root:Scraping images for class "electrodynamometer"
+INFO:root:Total URLs to process for class 'electrodynamometer': 115
+INFO:root:Scraping images for class "ivory palm"
+INFO:root:Total URLs to process for class 'ivory palm': 368
+INFO:root:Scraping images for class "cambric tea"
+INFO:root:Total URLs to process for class 'cambric tea': 3
+INFO:root:Scraping images for class "autofocus"
+INFO:root:Total URLs to process for class 'autofocus': 1250
+INFO:root:Scraping images for class "Sicilian pizza"
+INFO:root:Total URLs to process for class 'Sicilian pizza': 1098
+INFO:root:Scraping images for class "purple sage"
+INFO:root:Total URLs to process for class 'purple sage': 916
+INFO:root:Scraping images for class "water sport"
+INFO:root:Total URLs to process for class 'water sport': 1973
+INFO:root:Scraping images for class "glint"
+INFO:root:Total URLs to process for class 'glint': 558
+INFO:root:Scraping images for class "snail butter"
+INFO:root:Total URLs to process for class 'snail butter': 80
+INFO:root:Scraping images for class "Marburg virus"
+INFO:root:Total URLs to process for class 'Marburg virus': 262
+ERROR:urllib3.connection:Certificate did not match expected hostname: s1.hubimg.com. Certificate: {'subject': ((('commonName', 'hubpages.com'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Amazon'),), (('commonName', 'Amazon RSA 2048 M01'),)), 'version': 3, 'serialNumber': '05C454E142206776C5B60AFC72D06F85', 'notBefore': 'Sep 13 00:00:00 2023 GMT', 'notAfter': 'Oct 12 23:59:59 2024 GMT', 'subjectAltName': (('DNS', 'hubpages.com'), ('DNS', '*.hubpages.com'), ('DNS', '*.hub.me'), ('DNS', 'hubstatic.com'), ('DNS', 'hub.me'), ('DNS', '*.hubstatic.com')), 'OCSP': ('http://ocsp.r2m01.amazontrust.com',), 'caIssuers': ('http://crt.r2m01.amazontrust.com/r2m01.cer',), 'crlDistributionPoints': ('http://crl.r2m01.amazontrust.com/r2m01.crl',)}
+INFO:root:Scraping images for class "leather flower"
+INFO:root:Total URLs to process for class 'leather flower': 169
+INFO:root:Scraping images for class "gazelle"
+INFO:root:Total URLs to process for class 'gazelle': 1384
+INFO:root:Scraping images for class "modillion"
+INFO:root:Total URLs to process for class 'modillion': 69
+INFO:root:Scraping images for class "roux"
+INFO:root:Total URLs to process for class 'roux': 361
+INFO:root:Scraping images for class "sling"
+INFO:root:Total URLs to process for class 'sling': 508
+INFO:root:Scraping images for class "tiara"
+INFO:root:Total URLs to process for class 'tiara': 1201
+INFO:root:Scraping images for class "filature"
+INFO:root:Total URLs to process for class 'filature': 161
+INFO:root:Scraping images for class "pincer"
+INFO:root:Total URLs to process for class 'pincer': 1303
+INFO:root:Scraping images for class "corgi"
+INFO:root:Total URLs to process for class 'corgi': 1338
+INFO:root:Scraping images for class "snowdrift"
+INFO:root:Total URLs to process for class 'snowdrift': 1515
+INFO:root:Scraping images for class "priory"
+INFO:root:Total URLs to process for class 'priory': 758
+INFO:root:Scraping images for class "patisserie"
+INFO:root:Total URLs to process for class 'patisserie': 1135
+INFO:root:Creating folder random500_2 with images from 50 classes
+INFO:root:Scraping images for class "Surinam toad"
+INFO:root:Total URLs to process for class 'Surinam toad': 171
+INFO:root:Scraping images for class "grease-gun"
+INFO:root:Total URLs to process for class 'grease-gun': 1145
+INFO:root:Scraping images for class "coal seam"
+INFO:root:Total URLs to process for class 'coal seam': 389
+INFO:root:Scraping images for class "climbing fumitory"
+INFO:root:Total URLs to process for class 'climbing fumitory': 96
+INFO:root:Scraping images for class "assenter"
+INFO:root:Total URLs to process for class 'assenter': 126
+INFO:root:Scraping images for class "angelica"
+INFO:root:Total URLs to process for class 'angelica': 484
+INFO:root:Scraping images for class "darling"
+INFO:root:Total URLs to process for class 'darling': 1215
+INFO:root:Scraping images for class "bluehead"
+INFO:root:Total URLs to process for class 'bluehead': 161
+INFO:root:Scraping images for class "rose-colored starling"
+INFO:root:Total URLs to process for class 'rose-colored starling': 9
+INFO:root:Scraping images for class "creeping zinnia"
+INFO:root:Total URLs to process for class 'creeping zinnia': 247
+INFO:root:Scraping images for class "carpenter's level"
+INFO:root:Total URLs to process for class 'carpenter's level': 54
+INFO:root:Scraping images for class "steel blue"
+INFO:root:Total URLs to process for class 'steel blue': 599
+INFO:root:Scraping images for class "meander"
+INFO:root:Total URLs to process for class 'meander': 1275
+INFO:root:Scraping images for class "garden spider"
+INFO:root:Total URLs to process for class 'garden spider': 1372
+INFO:root:Scraping images for class "camel"
+INFO:root:Total URLs to process for class 'camel': 1428
+INFO:root:Scraping images for class "false morel"
+INFO:root:Total URLs to process for class 'false morel': 902
+INFO:root:Scraping images for class "white poplar"
+INFO:root:Total URLs to process for class 'white poplar': 978
+INFO:root:Scraping images for class "body louse"
+INFO:root:Total URLs to process for class 'body louse': 163
+INFO:root:Scraping images for class "chief executive officer"
+INFO:root:Total URLs to process for class 'chief executive officer': 1614
+INFO:root:Scraping images for class "post"
+INFO:root:Total URLs to process for class 'post': 1208
+INFO:root:Scraping images for class "musk mallow"
+INFO:root:Total URLs to process for class 'musk mallow': 1360
+INFO:root:Scraping images for class "brass"
+INFO:root:Total URLs to process for class 'brass': 1670
+INFO:root:Scraping images for class "dialectician"
+INFO:root:Total URLs to process for class 'dialectician': 59
+INFO:root:Scraping images for class "louvered window"
+INFO:root:Total URLs to process for class 'louvered window': 127
+INFO:root:Scraping images for class "metropolitan"
+INFO:root:Total URLs to process for class 'metropolitan': 1348
+INFO:root:Scraping images for class "thimbleweed"
+INFO:root:Total URLs to process for class 'thimbleweed': 364
+INFO:root:Scraping images for class "high explosive"
+INFO:root:Total URLs to process for class 'high explosive': 181
+INFO:root:Scraping images for class "flagellant"
+INFO:root:Total URLs to process for class 'flagellant': 129
+INFO:root:Scraping images for class "civil authority"
+INFO:root:Total URLs to process for class 'civil authority': 227
+INFO:root:Scraping images for class "New World blackbird"
+INFO:root:Total URLs to process for class 'New World blackbird': 1223
+INFO:root:Scraping images for class "segregator"
+INFO:root:Total URLs to process for class 'segregator': 372
+INFO:root:Scraping images for class "cocktail"
+INFO:root:Total URLs to process for class 'cocktail': 1273
+INFO:root:Scraping images for class "southern spadefoot"
+INFO:root:Total URLs to process for class 'southern spadefoot': 329

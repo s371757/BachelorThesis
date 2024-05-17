@@ -1,0 +1,3038 @@
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['mock orange', 'blended whiskey', 'screw', 'gimlet', 'binturong', 'repair shop', 'saddle blanket', 'fennel flower', 'toilet tissue', 'wicket']
+INFO:root:Scraping images for class "mock orange"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['scrub brush', 'dais', 'ayah', 'handlebar', 'Haitian', 'buckle', 'sorrel tree', 'tenement', 'module', 'vine snake']
+INFO:root:Starting ImageNet scraper
+n banana', 'magnum', 'gear', 'settler', 'chow mein', 'reader', 'brass', 'bunting', 'barrel', 'currant']
+INFO:root:Starting ImageNet scraper
+INFO:root:Scraping images for class "scrub brush"
+INFO:root:Scraping images for class "Abyssinian banana"
+INFO:root:Picked classes: ['Xerox', 'loosestrife', 'stopcock', 'buddy', 'easel', 'buttercrunch', 'protea', 'tiger', 'light bulb', 'watch cap']
+INFO:root:Picked classes: ['pump well', 'baneberry', 'snowdrop anemone', 'onion bagel', 'vinifera', 'biryani', 'sprinkler system', 'pasta salad', 'purple-fringed orchid', 'Eastern hop hornbeam']
+INFO:root:Picked classes: ['black swan', 'enchantress', 'earl', 'ear', 'cap opener', 'white-rumped shrike', 'Windsor knot', 'frigate bird', 'carport', 'daisy fleabane']
+INFO:root:Picked classes: ['feather reed grass', 'sewing machine', 'claret', 'jawfish', 'mask', 'flying phalanger', 'cowpen daisy', 'cast', 'gabardine', 'owl']
+INFO:root:Scraping images for class "Xerox"
+INFO:root:Scraping images for class "pump well"
+INFO:root:Scraping images for class "feather reed grass"
+INFO:root:Picked classes: ['highlighter', 'mountain tent', 'cornet', 'lakeside', 'dusty miller', 'Iceland moss', 'clerestory', 'longleaf pine', 'skiff', 'saguaro']
+INFO:root:Scraping images for class "black swan"
+INFO:root:Picked classes: ['American basswood', 'hammer', 'master of ceremonies', 'cantaloupe', 'parula warbler', 'contact sport', 'nonpasserine bird', 'Creole', 'lyrebird', 'toggle switch']
+INFO:root:Scraping images for class "highlighter"
+INFO:root:Scraping images for class "American basswood"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['niece', 'Secretary of Health and Human Services', 'mamba', 'skinhead', 'lapdog', 'shipping', 'Sloppy Joe', 'Christmas stocking', 'ringlet', 'loving cup']
+INFO:root:Scraping images for class "niece"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['teju', 'clary sage', 'long distance', 'cotinga', 'nanny', 'New World warbler', 'Greek fire', 'derrick', 'proboscis monkey', 'millet']
+INFO:root:Picked classes: ['blast furnace', 'sugar snap pea', 'reciprocating engine', 'gamboge', 'rifleman', 'joist', 'macrame', 'boxer', 'potato tree', 'can']
+INFO:root:Scraping images for class "teju"
+INFO:root:Scraping images for class "blast furnace"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['hunting knife', 'insurance broker', 'casting', 'lapel', 'timber', 'loving cup', 'organization man', 'fireweed', 'female mammal', 'squire']
+INFO:root:Scraping images for class "hunting knife"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['junction', 'control', 'pisser', 'webworm', 'silky oak', 'common privet', 'lime', 'Victrola', 'battle-ax', 'plate']
+INFO:root:Scraping images for class "junction"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['military leader', 'Wiffle', 'limekiln', 'chocolate fondue', 'millionairess', 'prairie smoke', 'milk', 'steep', 'settler', 'automation']
+INFO:root:Scraping images for class "military leader"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['ivory tree', 'dress rack', 'gumbo', 'potty seat', 'hand', 'sandbar shark', 'nailer', 'fairy ring', 'water butt', 'Alpine anemone']
+INFO:root:Scraping images for class "ivory tree"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['wild carrot', 'jasmine', 'false lily of the valley', 'sweet lemon', 'parlor', 'poll', 'timepiece', 'parsnip', 'heat engine', 'finback']
+INFO:root:Scraping images for class "wild carrot"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['tea', 'rink', 'European lobster', 'blue peafowl', 'fritillary', 'lentil soup', 'cardigan', 'pocket watch', 'barred owl', 'drawing chalk']
+INFO:root:Scraping images for class "tea"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['gallery', 'sweet cherry', 'ordinary', 'cowpea', 'fox hunting', 'true bug', 'sinkhole', 'Blackburn', 'tumblebug', 'reception desk']
+INFO:root:Scraping images for class "gallery"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['television equipment', 'waxmallow', 'camera lens', 'ruff', 'oven', 'writing desk', 'hairdressing', 'life office', 'physical therapist', 'parapet']
+INFO:root:Scraping images for class "television equipment"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['currant', 'lobster butter', 'southern red oak', 'agave', 'baggage claim', 'poop deck', 'garage', 'heath', 'camellia', 'heiress']
+INFO:root:Scraping images for class "currant"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['chapterhouse', 'cosmetician', 'camper', 'oconee bells', 'domino', 'paper fastener', 'shag rug', 'sauerkraut', 'launcher', 'cannonball']
+INFO:root:Scraping images for class "chapterhouse"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['olive', 'sweet woodruff', 'nanny', 'graffito', 'parsonage', 'osier', 'powder', 'armored vehicle', 'bin', 'linear leaf']
+INFO:root:Scraping images for class "olive"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['basil', 'square dancer', 'necklet', 'rain tree', 'bath salts', 'ctenophore', 'robalo', 'driver', 'blushing mushroom', 'anseriform bird']
+INFO:root:Scraping images for class "basil"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['passenger', 'downy yellow violet', 'bloodmobile', 'implement', 'penknife', 'bicycle chain', 'brace', 'chain store', 'diesel-hydraulic locomotive', 'grab bag']
+INFO:root:Scraping images for class "passenger"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['Britisher', 'canteen', 'pool player', 'sewing basket', 'spider monkey', 'eagle ray', 'roomette', 'toweling', 'bowsprit', 'velvet bent']
+INFO:root:Picked classes: ['sling', 'bluebird', 'oil refinery', 'tree frog', 'fish chowder', 'cooler', 'yellow bedstraw', 'golden oriole', 'chenille', 'pinnate leaf']
+INFO:root:Scraping images for class "Britisher"
+INFO:root:Scraping images for class "sling"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['accessory', 'packinghouse', 'camper', 'luna moth', 'satellite receiver', 'desk', 'cocker spaniel', 'wild pink', 'water ouzel', 'milk snake']
+INFO:root:Scraping images for class "accessory"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['binnacle', 'creme caramel', 'handball', 'tiger shark', 'table wine', 'plotter', 'amphora', 'toadflax', 'chanter', 'tank']
+INFO:root:Scraping images for class "binnacle"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['G-string', 'bluestocking', 'impala', 'prison', 'department store', 'snowcap', 'row house', 'equalizer', 'absinth', 'echidna']
+INFO:root:Scraping images for class "G-string"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['poll', 'fairy bluebird', 'cattle egret', 'tea bag', 'power drill', 'motor', 'harpsichord', 'adobo', 'French loaf', 'water polo']
+INFO:root:Scraping images for class "poll"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['thong', 'boiler', 'sapper', 'cattle', 'forklift', 'gavial', 'wedge', 'gilded flicker', 'pannier', 'studio apartment']
+INFO:root:Scraping images for class "thong"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['oilfield', 'pilchard', 'cranberry', 'eggnog', 'wall tent', 'rapeseed', 'lookdown', 'bottling plant', 'paisley', 'barbecued wing']
+INFO:root:Picked classes: ['banker', 'lederhosen', 'air force officer', 'weir', 'lantern', 'sunbonnet', 'purple', 'celery salt', 'hunt', 'buzzer']
+INFO:root:Scraping images for class "oilfield"
+INFO:root:Scraping images for class "banker"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['legionnaire', 'eyas', 'picture hat', 'figwort', 'Sloppy Joe', 'freshwater mussel', 'caramel', 'Manduca sexta', 'cedar waxwing', 'padrone']
+INFO:root:Scraping images for class "legionnaire"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['parrot', 'fortified wine', 'passenger', 'caracolito', 'toad lily', 'neckerchief', 'marimba', 'fan tracery', 'coffeeberry', 'cliff swallow']
+INFO:root:Picked classes: ['prayer shawl', 'western wood pewee', 'army ant', 'pachyderm', 'varietal', 'whip', 'daily', 'ear', 'strapless', 'paddle']
+INFO:root:Scraping images for class "parrot"
+INFO:root:Scraping images for class "prayer shawl"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['retiree', 'bath', 'angling', 'fur seal', 'stanchion', 'pinata', 'fedora', 'kid', 'bugle', 'nut tree']
+INFO:root:Picked classes: ['achira', 'meadow buttercup', 'snuffer', 'torchbearer', 'penguin', 'six-pack', 'sauce', 'rubber eraser', 'Model T', 'whip-snake']
+INFO:root:Scraping images for class "retiree"
+INFO:root:Scraping images for class "achira"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['headsail', 'harbor', 'sheet', 'chinning bar', 'stuffed tomato', 'iceboat', 'ring-necked parakeet', 'riding boot', 'political scientist', 'pedicab']
+INFO:root:Scraping images for class "headsail"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['walking stick', 'autofocus', 'chow', 'stalked puffball', 'minibar', 'fennel', 'American widgeon', 'bearberry', 'hand lotion', 'dessert']
+INFO:root:Scraping images for class "walking stick"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['bath towel', 'merino', 'swot', 'bull', 'dinner table', 'firearm', 'eland', 'kettle', 'metal screw', 'ragged robin']
+INFO:root:Scraping images for class "bath towel"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['orange soda', 'bing cherry', 'lory', 'Virginia deer', 'sprit', 'protegee', 'snow-in-summer', 'rye grass', 'wildcat', 'field game']
+INFO:root:Scraping images for class "orange soda"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['mirror', 'fish chowder', 'fire pink', 'harp', 'sapodilla', 'morning dress', 'dotterel', 'advocate', 'rock crab', 'cheetah']
+INFO:root:Scraping images for class "mirror"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['amusement arcade', 'sweetening', 'licentiate', 'airfoil', 'golliwog', 'tennis racket', 'cove', 'maul', 'first lieutenant', 'gravel']
+INFO:root:Multiprocessing workers: 8
+INFO:root:Scraping images for class "amusement arcade"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['doubles', 'greasy spoon', 'marsh mallow', 'fly', 'grotto', 'safe-deposit', 'loblolly pine', 'yardgrass', 'bucking bronco', 'button']
+INFO:root:Scraping images for class "doubles"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['blenny', 'dairy', 'spume', 'ape', 'motor', 'television equipment', 'automatic rifle', 'ironing', 'hush puppy', 'single prop']
+INFO:root:Scraping images for class "blenny"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['lychgate', 'gherkin', 'CD-ROM drive', 'chair', 'cabana', 'teaching fellow', 'borstal', 'shelduck', 'vichyssoise', 'goldenrod']
+INFO:root:Scraping images for class "lychgate"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['paper clip', 'seasoned salt', 'steward', 'premature baby', 'argus', 'planner', 'principal', 'stammerer', 'light bulb', 'hoop pine']
+INFO:root:Scraping images for class "paper clip"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['boucle', 'bush willow', 'support', 'typewriter', 'parlor', 'chamberpot', 'lockage', 'copperhead', 'stalked puffball', 'field mustard']
+INFO:root:Scraping images for class "boucle"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['cotinga', 'armament', 'English setter', 'high commissioner', 'game bird', 'canal boat', 'jumping', 'pilot boat', 'California poppy', 'roe deer']
+INFO:root:Scraping images for class "cotinga"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['conference room', 'soft tree fern', 'telpherage', 'pitcher', 'rabbitfish', 'American sycamore', 'Dutch iris', 'Norway spruce', 'glasswort', 'eclectic']
+INFO:root:Scraping images for class "conference room"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['balloonist', 'robin', 'ptarmigan', 'sweet vermouth', 'power cord', 'tabby', 'lepiota', 'common nutcracker', 'reindeer moss', 'student']
+INFO:root:Scraping images for class "balloonist"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['marquess', 'fledgling', 'saddle seat', 'pizzeria', 'stabling', 'mealworm', 'razorblade', 'jay', 'monoplane', 'desk']
+INFO:root:Scraping images for class "marquess"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['color guard', 'Jamaican cherry', 'almond', 'water-mint', 'cutter', 'equestrian sport', 'celery', 'bottle-tree', 'church bell', 'owlet']
+INFO:root:Scraping images for class "color guard"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['paloverde', 'sleeping car', 'armoire', 'fireman', 'Tibetan', 'cake mix', 'velvet ant', 'seltzer', 'cutaway', 'caribou']
+INFO:root:Scraping images for class "paloverde"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['seasnail', 'shot glass', 'interpreter', 'defensive structure', 'summer tanager', 'music school', 'barracuda', 'crazy quilt', 'taillight', 'Dubliner']
+INFO:root:Scraping images for class "seasnail"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['New World vulture', 'squash', 'planter', 'rocket', 'baron', 'flagon', 'bovine', 'precipice', 'bongo', 'insole']
+INFO:root:Scraping images for class "New World vulture"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['garganey', 'pupa', 'student center', 'mamey', 'chain mail', 'flytrap', 'chuckwalla', 'Tasmanian devil', 'astilbe', 'architeuthis']
+INFO:root:Scraping images for class "garganey"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['pinetum', 'caiman', 'ming tree', 'blacktip shark', 'duffel bag', 'paella', 'fennel', 'sickroom', 'box', 'pallbearer']
+INFO:root:Picked classes: ['marzipan', 'dining-room table', 'rose mallow', 'celebrity', 'scion', 'pavior', 'soapsuds', 'land line', 'skier', 'color television']
+INFO:root:Scraping images for class "pinetum"
+INFO:root:Scraping images for class "marzipan"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['egg', 'plum tomato', 'cake mix', 'wire', 'patch', 'gunnysack', 'speakerphone', 'pussy willow', 'amusement park', 'blade']
+INFO:root:Scraping images for class "egg"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['collection', 'martin', 'pastry', 'paper wasp', 'bones', 'taipan', 'pistol grip', 'ramp', 'Tibetan mastiff', 'tetra']
+INFO:root:Picked classes: ['pinwheel roll', 'turnip', 'barbecue', 'pillbox', 'Quebecois', 'laurel oak', 'glossy snake', 'cap', 'pavonia', 'chapterhouse']
+INFO:root:Scraping images for class "collection"
+INFO:root:Scraping images for class "pinwheel roll"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['man', 'ibis', 'footbridge', 'perforation', 'finch', 'gar', 'squirrel corn', 'oscilloscope', 'infiltrator', 'vitamin A']
+INFO:root:Scraping images for class "man"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['juror', 'equestrian sport', 'kernel', 'zoysia', 'winter jasmine', 'atlas moth', 'dirndl', 'common water snake', 'command module', 'dinghy']
+INFO:root:Scraping images for class "juror"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['kylix', 'dove', 'sewing basket', 'meadow clary', 'bite', 'security system', 'keeshond', 'common lilac', 'chili sauce', 'Jaws of Life']
+INFO:root:Scraping images for class "kylix"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['hockey skate', 'skin diving', 'mealybug', 'aposematic coloration', 'stopcock', 'plantain', 'joystick', 'feeder', 'soapberry', 'reseda']
+INFO:root:Scraping images for class "hockey skate"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ["stokes' aster", 'projectile', 'betrothed', 'Sarawakian', 'brazil nut', 'rock wallaby', 'water wings', 'stevia', 'house centipede', 'flipper']
+INFO:root:Scraping images for class "stokes' aster"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['loop', 'motley', 'textile machine', 'mandarin duck', 'brick', 'fatigues', 'swimming', 'Red Delicious', 'point lace', 'velvet ant']
+INFO:root:Scraping images for class "loop"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['meadowlark', 'dessert spoon', 'bather', 'tender', 'very important person', 'kremlin', 'cabinetwork', 'descent', 'iceboat', 'wild hyacinth']
+INFO:root:Scraping images for class "meadowlark"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['martini', 'ice hockey rink', 'servo', 'English saddle', 'thrips', 'beldam', 'Burgundy', 'Brahman', "granny's bonnets", 'melon ball']
+INFO:root:Scraping images for class "martini"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ["Venus's flytrap", 'olive drab', 'white fringed orchis', 'seaplane', 'tiger cat', 'sea lavender', 'macrame', 'Zen Buddhist', 'Petri dish', 'John Doe']
+INFO:root:Picked classes: ['case', 'bloomers', 'homing pigeon', 'barricade', 'sandgrouse', 'concertina', 'computer monitor', 'glory hole', 'goose barnacle', 'hood']
+INFO:root:Scraping images for class "Venus's flytrap"
+INFO:root:Scraping images for class "case"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['brittle bladder fern', 'great-niece', 'respirator', 'lowland fir', "leopard's-bane", 'treasure flower', 'ballistic missile', 'cassette', 'massage parlor', 'arrack']
+INFO:root:Scraping images for class "brittle bladder fern"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['roller', 'hack', 'silverpoint', 'hyssop', 'stockade', 'nephew', 'supply closet', 'totem pole', 'deputy', 'junk shop']
+INFO:root:Scraping images for class "roller"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['yellowtail', 'skewer', 'hand lotion', 'nephew', 'robber fly', 'keyboard instrument', 'red-spotted purple', 'sweet bay', 'tea', 'Venn diagram']
+INFO:root:Scraping images for class "yellowtail"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['tassel hyacinth', 'mango', 'violin', 'tailback', 'balsam fir', 'onager', 'gamp', 'long distance', "Clark's nutcracker", 'broth']
+INFO:root:Scraping images for class "tassel hyacinth"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['pier table', 'beer glass', 'instigator', 'blanket', 'carpenter', 'chelonian', 'preceptor', 'wild sheep', 'violet wood sorrel', 'pullet']
+INFO:root:Multiprocessing workers: 8
+INFO:root:Scraping images for class "pier table"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['rock bass', 'farm horse', 'doorjamb', 'zebra mussel', 'soul mate', 'private', 'cultivar', 'sumac', 'olive', 'coconut']
+INFO:root:Scraping images for class "rock bass"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['junction', 'scrambled eggs', 'even-toed ungulate', 'bicycle seat', 'papaya', 'smoke screen', 'blackberry-lily', 'rolling pin', 'male chauvinist', 'flame tree']
+INFO:root:Scraping images for class "junction"
+INFO:root:Picked classes: ['bulldog', 'comfort food', 'scuba diver', 'Indian pipe', 'in-line skate', 'scarab', 'furrow', 'deflector', 'shower stall', 'glove compartment']
+INFO:root:Scraping images for class "bulldog"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['dinner napkin', 'Joe-Pye weed', 'line', 'glebe house', 'daybed', 'muskmelon', 'end man', 'mitten', 'zooplankton', 'draft animal']
+INFO:root:Scraping images for class "dinner napkin"
+INFO:root:Picked classes: ['shoebill', 'Latin American', 'reed grass', 'costume', 'commander in chief', 'Arabian coffee', 'royal palm', 'broom', 'set', 'downy woodpecker']
+INFO:root:Multiprocessing workers: 8
+INFO:root:Scraping images for class "shoebill"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['prosthesis', 'stinking iris', 'edible snail', 'sister', 'anchovy dressing', 'tea chest', 'dustcloth', 'bumboat', 'cave', 'two-eyed violet']
+INFO:root:Scraping images for class "prosthesis"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['nacelle', 'catechist', 'Komodo dragon', 'fly tent', 'double cream', 'crest', 'mistress', 'casting', 'Navaho', 'partition']
+INFO:root:Scraping images for class "nacelle"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['gopher tortoise', 'railing', 'wild teasel', 'office furniture', 'tiger rattlesnake', 'bush hibiscus', 'pennant', 'coat closet', 'maple', 'coralwood']
+INFO:root:Scraping images for class "gopher tortoise"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['pop bottle', 'bean sprout', 'Mainer', 'culvert', 'door', 'rail fence', 'trouser cuff', 'radiogram', 'straight chair', 'outdoor sport']
+INFO:root:Scraping images for class "pop bottle"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['lightwood', 'sage', 'riding', 'putter', 'jabot', 'ski cap', 'outdoors', 'cabbage', 'computer scientist', 'cottage tent']
+INFO:root:Multiprocessing workers: 8
+INFO:root:Scraping images for class "lightwood"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['Welsh poppy', 'lumberman', 'wiggler', 'almond', 'bulwark', 'gaillardia', 'wattle and daub', 'Monterey cypress', 'finery', 'stove']
+INFO:root:Scraping images for class "Welsh poppy"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['hollyhock', 'spadefish', 'logwood', 'ink bottle', 'grotto', 'elaterid beetle', 'Jaws of Life', 'tickseed sunflower', 'jukebox', 'ball game']
+INFO:root:Scraping images for class "hollyhock"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['drupe', 'underwear', 'dowitcher', 'call-in', 'Empire', 'lesser yellowlegs', 'wood chisel', 'earthenware', 'platform', 'shutter']
+INFO:root:Scraping images for class "drupe"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['black and gold garden spider', 'transom', 'Liberian', 'grinner', 'yellow bedstraw', 'common iguana', 'Scotch terrier', 'stately home', 'tussock caterpillar', 'Chilean']
+INFO:root:Scraping images for class "black and gold garden spider"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['coconut milk', 'sewing kit', 'Christmas stocking', 'deer mushroom', 'electric ray', 'aperea', 'fishing eagle', 'physical therapist', 'bat boy', 'roulette wheel']
+INFO:root:Scraping images for class "coconut milk"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['setter', 'drinker', 'timepiece', 'backup system', 'catechist', 'fox terrier', 'gallery', 'guilloche', 'rumble seat', 'hair spray']
+INFO:root:Scraping images for class "setter"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['walk-in', 'pottage', 'Floridian', 'beefcake', 'pump room', 'bristlecone pine', 'jawfish', 'pinball machine', 'celery salt', 'mountain ash']
+INFO:root:Scraping images for class "walk-in"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['ski-plane', 'watchtower', 'ebony', 'jersey', 'young bird', 'ben', 'crochet needle', 'machicolation', 'Spanish rice', 'clog dancer']
+INFO:root:Scraping images for class "ski-plane"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['sundial', 'berserker', 'jalousie', 'loop knot', 'Old World oriole', 'deviled egg', 'rat terrier', 'she-oak', 'woof', 'spider crab']
+INFO:root:Scraping images for class "sundial"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['cosmetic', 'fig tree', 'exile', 'Homo sapiens', 'foothill', 'besom', 'bonnet', 'horseradish', 'tiger lily', 'air horn']
+INFO:root:Scraping images for class "cosmetic"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['scrub pine', 'splashboard', 'shaker', 'sewing room', 'evaporated milk', 'silver fern', 'Zionist', 'Potawatomi', 'lobster butter', 'Aegean island']
+INFO:root:Scraping images for class "scrub pine"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['knife blade', 'telephone pole', 'square sail', 'magnetic tape', 'chocolate fondue', 'Japanese banana', 'Seven Wonders of the Ancient World', 'cobra', 'strawberry tree', 'tramline']
+INFO:root:Picked classes: ['skeleton', 'roulette', 'desert pea', 'continental breakfast', 'iceman', 'water vole', 'won ton', 'Caucasian walnut', 'oilcan', 'fresh bean']
+INFO:root:Scraping images for class "knife blade"
+INFO:root:Scraping images for class "skeleton"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['monstrance', 'hobby', 'inspector general', 'Jamaican cherry', 'saffron', 'orthopterous insect', 'bustier', 'bastion', 'field hockey', 'gift wrapping']
+INFO:root:Picked classes: ['rotating mechanism', 'rosemary', 'food', 'maraca', 'goosander', "Queen's crape myrtle", 'hepatic tanager', 'capacitor', 'pinwheel', 'saw']
+INFO:root:Scraping images for class "monstrance"
+INFO:root:Scraping images for class "rotating mechanism"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['animal trainer', 'amusement park', 'alga', 'copper beech', 'wing tip', 'Nahuatl', 'flash memory', 'Arctic fox', 'hortensia', 'field speedwell']
+INFO:root:Scraping images for class "animal trainer"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['white ash', 'power cord', 'rundle', 'greenling', 'rough bindweed', 'freight train', 'sky', 'Siberian elm', 'pup tent', 'white fringed orchis']
+INFO:root:Scraping images for class "white ash"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['spear', 'brace', 'carnivore', 'boxing', 'livingstone daisy', 'lamp', 'arboreal salamander', 'staysail', 'crown of thorns', 'date']
+INFO:root:Picked classes: ['T-bar lift', 'armored car', "lamb's-quarter", 'mixer', 'asphodel', 'chador', 'white-crowned sparrow', 'fly', 'araucaria', 'fanatic']
+INFO:root:Scraping images for class "spear"
+INFO:root:Scraping images for class "T-bar lift"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['gully', 'crown', 'kumquat', 'gunnysack', 'common broom', 'curd', 'person', 'bullet train', 'picnic', 'duckpin']
+INFO:root:Scraping images for class "gully"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['Carioca', 'call', 'facilitator', 'field mustard', 'California newt', 'wall unit', 'bling', 'dish', 'affiliate', 'shrine']
+INFO:root:Scraping images for class "Carioca"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['beef stew', 'palo santo', 'cur', 'stringed instrument', 'hill', 'stagecoach', 'shofar', 'bloomers', 'wahoo', 'aigrette']
+INFO:root:Picked classes: ['mole rat', 'bell push', 'black tea', 'fruit punch', 'chestnut', 'grated cheese', 'arnica', 'great grandson', 'maraschino', 'shepherd']
+INFO:root:Scraping images for class "beef stew"
+INFO:root:Scraping images for class "mole rat"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['duchess', 'glutton', 'bath salts', 'pacer', 'distillery', 'programmer', 'cocktail shaker', 'submachine gun', 'hot spot', 'apron']
+INFO:root:Scraping images for class "duchess"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ["Bewick's swan", 'mushroom', 'worshiper', 'godchild', 'worsted', 'food fish', 'bayberry', 'buckwheat', 'camouflage', 'plant']
+INFO:root:Scraping images for class "Bewick's swan"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['grape juice', 'alehouse', 'ditch', 'rowan', 'control tower', 'potsherd', 'sherbert', 'canal boat', 'purple', 'black locust']
+INFO:root:Scraping images for class "grape juice"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['eastern grey squirrel', 'dusky salamander', 'calceolaria', 'bunya bunya', 'club fungus', 'Secretary of Health and Human Services', 'centenarian', 'vacuum flask', 'portrait lens', 'coffee maker']
+INFO:root:Picked classes: ['saltpan', 'two-piece', 'college', 'tragopan', 'handbell', 'wagtail', 'hostess', 'common horsetail', 'mackerel', 'walking fern']
+INFO:root:Scraping images for class "eastern grey squirrel"
+INFO:root:Scraping images for class "saltpan"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['sac fungus', 'casting', 'cargo door', 'blue goose', 'thimble', 'eaves', 'stone crab', 'athletic sock', 'wood duck', 'red helleborine']
+INFO:root:Scraping images for class "sac fungus"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['sewing basket', 'ladder truck', 'assembly plant', 'marten', 'song sparrow', 'brassiere', 'meadow goldenrod', 'yellow-fever mosquito', 'canteen', 'bluetick']
+INFO:root:Scraping images for class "sewing basket"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['casuist', 'matai', 'standard transmission', 'rest house', 'Brahman', 'New World tapir', 'giant sunflower', 'carnation', 'Tulipa gesneriana', 'bow and arrow']
+INFO:root:Scraping images for class "casuist"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['concertina', 'wild lily of the valley', 'bier', 'worker bee', 'giant red paintbrush', 'chuck wagon', 'cattle guard', 'raisin bread', 'whistle', 'common stinkhorn']
+INFO:root:Scraping images for class "concertina"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['chess master', 'chickpea', 'light brown', 'splint', 'tortoiseshell', 'purple grackle', 'power saw', 'taffy', 'medical instrument', 'maternity hospital']
+INFO:root:Scraping images for class "chess master"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['pecan', 'Japanese deer', 'shutter', 'kit fox', 'light diet', 'ski tow', 'New Zealand beech', 'gabardine', 'sauce', 'traffic cop']
+INFO:root:Picked classes: ['Venetian sumac', 'goose barnacle', 'mesa', 'examiner', 'water rat', 'diapheromera', 'White Russian', 'Crock Pot', 'telephone jack', 'lungfish']
+INFO:root:Scraping images for class "pecan"
+INFO:root:Scraping images for class "Venetian sumac"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['wolf', 'bighorn', 'impala lily', 'lovage', 'sapodilla', 'propeller plane', 'valley girl', 'reservoir', 'block and tackle', 'tape deck']
+INFO:root:Scraping images for class "wolf"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['bergenia', 'grocery bag', 'French bulldog', 'common milkwort', 'mizzen', 'motorboat', 'link', 'satsuma', 'mechanism', 'touring car']
+INFO:root:Scraping images for class "bergenia"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['lieutenant', 'betel palm', 'pineapple weed', 'banquette', 'willow', 'loaf of bread', 'Reuben', 'celandine poppy', 'rocket larkspur', 'daybook']
+INFO:root:Scraping images for class "lieutenant"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['American woodcock', 'rotor', 'puff paste', 'gaboon viper', 'gypsy moth', 'spotted crake', 'Tommy gun', 'Tetrazzini', 'pressure gauge', 'motor scooter']
+INFO:root:Scraping images for class "American woodcock"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['crouton', 'mat', 'stable gear', 'radial', 'squamous cell', 'red ash', 'sanguine', 'sunfish', 'raw milk', 'bicycle rack']
+INFO:root:Multiprocessing workers: 8
+INFO:root:Scraping images for class "crouton"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['surveyor', 'wagon tire', 'ibis', 'achillea', 'decaffeinated coffee', 'mallet', 'cello', 'loving cup', 'bark beetle', 'ammunition']
+INFO:root:Scraping images for class "surveyor"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['aircraft', 'double', 'canned meat', 'caldron', 'strawflower', 'great bustard', 'bread knife', 'document', 'readout', 'ancestor']
+INFO:root:Picked classes: ['doorsill', 'athletic sock', 'tambour', 'goat', 'bath oil', 'columbarium', 'stewing pan', 'godown', 'beet green', 'dinner bell']
+INFO:root:Scraping images for class "aircraft"
+INFO:root:Scraping images for class "doorsill"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['osier', 'bannock', 'tadpole shrimp', 'Bolivian', 'shovel', 'ctenophore', 'American chestnut', 'tie rod', 'foreland', 'bearded vulture']
+INFO:root:Scraping images for class "osier"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['library', 'bridle', 'Leonberg', 'basilisk', 'fishmonger', 'wombat', 'pollack', 'eland', 'associate', "ladies' room"]
+INFO:root:Scraping images for class "library"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['monkey', 'crepe de Chine', 'rodeo', 'marcher', 'sprinkler system', 'nail polish', 'sweater', 'kasbah', 'monstrance', 'gravure']
+INFO:root:Scraping images for class "monkey"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['mayapple', 'auditorium', 'short iron', 'underwing', 'soft diet', 'pusher', 'quetzal', 'cowbarn', 'hot-air balloon', 'frogmouth']
+INFO:root:Scraping images for class "mayapple"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['flatmate', 'phasmid', 'kitbag', 'homopterous insect', 'fucoid', 'pop tent', 'Reuben', 'barbecue', 'coralwood', 'Mediterranean snapdragon']
+INFO:root:Scraping images for class "flatmate"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['pug', 'swallow', 'greenfly', 'music box', 'newt', 'back', 'caftan', 'agonist', 'topmast', 'water oak']
+INFO:root:Scraping images for class "pug"
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['attack dog', 'red maple', 'sanguine', 'cafe', 'Spanish elm', 'analog watch', 'American agave', 'sensualist', 'hooded merganser', 'tumble-dryer']
+INFO:root:Picked classes: ['European white lily', 'platinum blond', 'bridle', 'mealworm', 'gargoyle', 'sunfish', 'swamp birch', 'chough', 'white poplar', 'spotted owl']
+INFO:root:Scraping images for class "attack dog"
+INFO:root:Scraping images for class "European white lily"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['ice-cream cake', 'snob', 'spiral spring', 'ranch hand', 'Siberian husky', 'bottlebrush', 'prairie sunflower', 'spice tree', 'reading room', 'walking fern']
+INFO:root:Scraping images for class "ice-cream cake"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['common iguana', 'stretcher', 'croquet mallet', 'ringhals', 'oatmeal', 'great-aunt', 'brocade', 'orangeade', 'back porch', 'iron']
+INFO:root:Scraping images for class "common iguana"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['mayfly', 'flash memory', 'ebony', 'riding crop', 'shearwater', 'lake dwelling', 'developer', 'common room', 'readout', 'pet']
+INFO:root:Scraping images for class "mayfly"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['amphora', 'candy corn', 'aardvark', 'bankrupt', 'scalpel', 'Easter egg', 'fig-bird', 'poorhouse', 'cottonwood', 'eastern kingbird']
+INFO:root:Scraping images for class "amphora"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['sailor cap', 'black-backed gull', 'python', 'crow pheasant', 'moth orchid', 'wild teasel', 'Pennsylvanian', 'noisemaker', 'bin', 'dormouse']
+INFO:root:Scraping images for class "sailor cap"
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['common sage', 'cinnamon bear', 'eastern fence lizard', 'chicken and rice', 'connection', 'coaxial cable', 'red campion', 'embellishment', 'maul', "sou'wester"]
+INFO:root:Scraping images for class "common sage"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['rack', 'dish', 'trainer', 'chimneysweeper', "yellow lady's slipper", 'piston rod', 'white dead nettle', 'leaf-cutting bee', 'country store', 'crab cactus']
+INFO:root:Scraping images for class "rack"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['Welsh pony', 'tape recorder', 'Indian pipe', 'Angora', 'cypress vine', 'outerwear', 'piste', 'tea gown', 'African clawed frog', 'dumbbell']
+INFO:root:Scraping images for class "Welsh pony"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['grey kingbird', 'coffer', 'sporting dog', 'bird', 'birch', 'basenji', 'manna ash', 'finish coat', 'yellow birch', 'broadcloth']
+INFO:root:Scraping images for class "grey kingbird"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['whydah', 'edible mussel', 'sundowner', 'amputee', 'sea hare', 'manul', 'palm', 'developer', 'aircraft carrier', 'first class']
+INFO:root:Scraping images for class "whydah"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['iPod', 'novelist', 'butterfly pea', 'carpenter bee', 'cargo helicopter', 'Italian bread', 'true slime mold', 'push-bike', 'gurney', 'commensal']
+INFO:root:Scraping images for class "iPod"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['juniper berry', 'sweet orange', 'wandering albatross', 'switcher', 'greyhound racing', 'bamboo palm', 'downhill', 'electric range', 'synagogue', 'osso buco']
+INFO:root:Scraping images for class "juniper berry"
+INFO:root:Multiprocessing workers: 8
+INFO:root:Starting ImageNet scraper
+INFO:root:Multiprocessing workers: 8
+INFO:root:Multiprocessing workers: 8
+INFO:root:Picked classes: ['pave', 'pillow lace', 'coffeepot', 'hellbender', 'presbytery', 'weight', 'belted kingfisher', 'harp seal', 'microorganism', 'cape jasmine']
+INFO:root:Scraping images for class "pave"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['garlic chive', 'amberjack', 'glockenspiel', 'dirndl', 'savoy cabbage', 'rowan', 'vicuna', 'folk poet', 'panicle', 'black-capped chickadee']
+INFO:root:Scraping images for class "garlic chive"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['sour gum', 'Romanov', 'breastplate', 'snake', 'ancient', 'saki', 'Allen wrench', 'medlar', 'trailer', 'tapenade']
+INFO:root:Scraping images for class "sour gum"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['pen-and-ink', 'flathead', 'devil ray', 'divot', 'kettle', 'fuchsia', 'chow mein', 'woodcock', 'silver sage', 'cabinetmaker']
+INFO:root:Scraping images for class "pen-and-ink"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['coucal', 'tree of knowledge', 'cochin', 'compact', 'baked Alaska', 'fig', 'ageratum', 'saffron', 'factory', 'kingbird']
+INFO:root:Scraping images for class "coucal"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['black mallee', 'water nymph', 'eating apple', 'jacquard', 'beldam', 'barouche', 'safety net', 'red snapper', 'common maidenhair', 'scaup']
+INFO:root:Scraping images for class "black mallee"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['whole snipe', 'cub', 'Loranthaceae', 'Glengarry', 'Morris chair', 'crab cactus', 'touch screen', 'twin bed', 'gathered skirt', 'trailing arbutus']
+INFO:root:Scraping images for class "whole snipe"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['glacier', "Barnaby's thistle", 'dandelion green', 'sweet corn', 'osso buco', 'ligament', 'pessimist', 'elbow pad', 'Italian bread', 'barbican']
+INFO:root:Scraping images for class "glacier"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['water rat', 'print', 'myriapod', 'LP', 'African crocodile', 'textile machine', 'matriarch', 'wild horse', 'stateroom', "bird's-foot violet"]
+INFO:root:Scraping images for class "water rat"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['aigrette', 'cassia', 'parishioner', 'bok choy', 'crane', 'tomato hornworm', 'assembly plant', 'personage', 'bassinet', 'jack-in-the-pulpit']
+INFO:root:Scraping images for class "aigrette"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['marabou', 'rubber boot', 'Spanish onion', 'wood ant', 'engine', 'jai alai', 'pyxis', 'Kamchatkan sea eagle', 'cookfire', 'tree frog']
+INFO:root:Scraping images for class "marabou"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['wagon wheel', 'speckled rattlesnake', 'line officer', 'lounging jacket', 'golf equipment', 'pavilion', 'kit', 'fold', 'flatmate', 'creche']
+INFO:root:Scraping images for class "wagon wheel"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['soapwort', 'chalk', 'cowpen daisy', 'peanut', 'neckpiece', 'rainbow trout', 'fur hat', 'water chute', 'service tree', 'kitchen table']
+INFO:root:Scraping images for class "soapwort"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['cockleshell', 'entellus', 'masterpiece', 'batting helmet', 'clambake', 'zooplankton', 'bannister', 'turbine', 'Tarsius syrichta', 'cohune palm']
+INFO:root:Scraping images for class "cockleshell"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['water hemlock', 'backboard', 'coast rhododendron', 'dredger', 'collet', 'antelope', 'rabbi', 'giant red paintbrush', 'ordinary', 'lineman']
+INFO:root:Scraping images for class "water hemlock"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['wild buckwheat', 'macaroni and cheese', 'lamppost', 'spurge', 'stable', 'jacket', 'flavorer', 'softball', 'claret', 'barking frog']
+INFO:root:Scraping images for class "wild buckwheat"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['emerald', 'team sport', 'macadamia', 'sugar bowl', 'lander', 'masdevallia', 'operating table', 'black tea', 'crayfish', 'day game']
+INFO:root:Scraping images for class "emerald"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['Creole', 'glory hole', 'knapweed', 'lavaliere', 'savory', 'pressure gauge', 'Eskimo', 'pahautea', 'chain', 'house of cards']
+INFO:root:Scraping images for class "Creole"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['quilted bedspread', 'raita', 'instrument', 'vetch', 'paper mill', 'mascarpone', 'push-bike', 'night jasmine', 'chassis', 'cassava']
+INFO:root:Scraping images for class "quilted bedspread"
+INFO:root:Multiprocessing workers: 1
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['chickweed', 'ankle brace', 'black bee', 'anteroom', 'darkroom', 'drummer', 'equalizer', 'shower stall', 'blue', 'peba']
+INFO:root:Scraping images for class "chickweed"
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['ski mask', 'bobbin', 'tapioca pudding', 'mantled ground squirrel', 'flowering almond', 'wren', 'chorus frog', 'parasol mushroom', 'gopher tortoise', 'power cord']
+INFO:root:Scraping images for class "ski mask"
+INFO:root:Total URLs to process: 1105
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 0 successes
+INFO:root:0.0% success rate for all urls
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['cricket bat', 'bullpen', 'boat', 'audiotape', 'conformation', 'brazil nut', 'blueberry yogurt', 'bone', 'hospital bed', 'cleat']
+INFO:root:Scraping images for class "cricket bat"
+INFO:root:Total URLs to process: 1369
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 2 urls with 0 successes
+INFO:root:0.0% success rate for is_flickr urls
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 3 urls with 0 successes
+INFO:root:0.0% success rate for all urls
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 4 urls with 1 successes
+INFO:root:25.0% success rate for is_flickr urls
+INFO:root:4.256822824478149 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 6 urls with 1 successes
+INFO:root:16.666666666666668% success rate for all urls
+INFO:root:4.257824659347534 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 6 urls with 2 successes
+INFO:root:33.333333333333336% success rate for is_flickr urls
+INFO:root:2.514396905899048 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 9 urls with 2 successes
+INFO:root:22.22222222222222% success rate for all urls
+INFO:root:2.5149046182632446 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 8 urls with 3 successes
+INFO:root:37.5% success rate for is_flickr urls
+INFO:root:2.088521162668864 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 12 urls with 3 successes
+INFO:root:25.0% success rate for all urls
+INFO:root:2.088521162668864 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 9 urls with 4 successes
+INFO:root:44.44444444444444% success rate for is_flickr urls
+INFO:root:1.699806272983551 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 14 urls with 4 successes
+INFO:root:28.571428571428573% success rate for all urls
+INFO:root:1.699806272983551 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 10 urls with 5 successes
+INFO:root:50.0% success rate for is_flickr urls
+INFO:root:1.5080950260162354 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 16 urls with 5 successes
+INFO:root:31.25% success rate for all urls
+INFO:root:1.5082931995391846 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 11 urls with 6 successes
+INFO:root:54.54545454545455% success rate for is_flickr urls
+INFO:root:1.3291021982828777 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 18 urls with 6 successes
+INFO:root:33.333333333333336% success rate for all urls
+INFO:root:1.3292685747146609 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 12 urls with 7 successes
+INFO:root:58.333333333333336% success rate for is_flickr urls
+INFO:root:1.2243435382843018 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 20 urls with 7 successes
+INFO:root:35.0% success rate for all urls
+INFO:root:1.2243435382843018 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 13 urls with 8 successes
+INFO:root:61.53846153846154% success rate for is_flickr urls
+INFO:root:1.1403676569461823 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 22 urls with 8 successes
+INFO:root:36.36363636363637% success rate for all urls
+INFO:root:1.1404926776885986 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 14 urls with 9 successes
+INFO:root:64.28571428571429% success rate for is_flickr urls
+INFO:root:1.0631529225243463 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 24 urls with 9 successes
+INFO:root:37.5% success rate for all urls
+INFO:root:1.0632637871636286 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 15 urls with 10 successes
+INFO:root:66.66666666666667% success rate for is_flickr urls
+INFO:root:1.0483134269714356 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 26 urls with 10 successes
+INFO:root:38.46153846153846% success rate for all urls
+INFO:root:1.048413372039795 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 16 urls with 11 successes
+INFO:root:68.75% success rate for is_flickr urls
+INFO:root:1.0099675221876665 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 11 successes
+INFO:root:39.285714285714285% success rate for all urls
+INFO:root:1.0100572109222412 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 18 urls with 12 successes
+INFO:root:66.66666666666667% success rate for is_flickr urls
+INFO:root:1.0022166570027669 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 31 urls with 12 successes
+INFO:root:38.70967741935484% success rate for all urls
+INFO:root:1.0022166570027669 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 19 urls with 13 successes
+INFO:root:68.42105263157895% success rate for is_flickr urls
+INFO:root:0.9814093663142278 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 33 urls with 13 successes
+INFO:root:39.39393939393939% success rate for all urls
+INFO:root:0.9814093663142278 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 20 urls with 14 successes
+INFO:root:70.0% success rate for is_flickr urls
+INFO:root:0.9739044734409877 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 35 urls with 14 successes
+INFO:root:40.0% success rate for all urls
+INFO:root:0.9739487511771066 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 21 urls with 15 successes
+INFO:root:71.42857142857143% success rate for is_flickr urls
+INFO:root:0.961877457300822 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 15 successes
+INFO:root:40.54054054054054% success rate for all urls
+INFO:root:0.961944055557251 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 22 urls with 16 successes
+INFO:root:72.72727272727273% success rate for is_flickr urls
+INFO:root:0.9411403089761734 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 39 urls with 16 successes
+INFO:root:41.02564102564103% success rate for all urls
+INFO:root:0.9411973208189011 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 24 urls with 17 successes
+INFO:root:70.83333333333333% success rate for is_flickr urls
+INFO:root:0.9494613759657916 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 17 successes
+INFO:root:40.476190476190474% success rate for all urls
+INFO:root:0.9495173482333913 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 25 urls with 18 successes
+INFO:root:72.0% success rate for is_flickr urls
+INFO:root:0.9251979721917046 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 44 urls with 18 successes
+INFO:root:40.90909090909091% success rate for all urls
+INFO:root:0.9252534707387289 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 27 urls with 19 successes
+INFO:root:70.37037037037037% success rate for is_flickr urls
+INFO:root:0.9351146095677426 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 47 urls with 19 successes
+INFO:root:40.42553191489362% success rate for all urls
+INFO:root:0.9351146095677426 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 28 urls with 20 successes
+INFO:root:71.42857142857143% success rate for is_flickr urls
+INFO:root:0.9331251859664917 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 49 urls with 20 successes
+INFO:root:40.816326530612244% success rate for all urls
+INFO:root:0.9331251859664917 seconds spent per successful all image download
+INFO:root:Scraping images for class "bullpen"
+INFO:root:Total URLs to process: 300
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 29 urls with 21 successes
+INFO:root:72.41379310344827% success rate for is_flickr urls
+INFO:root:0.9784817355019706 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 21 successes
+INFO:root:2100.0% success rate for all urls
+INFO:root:0.9785296235765729 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 30 urls with 22 successes
+INFO:root:73.33333333333333% success rate for is_flickr urls
+INFO:root:0.955908862027255 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 3 urls with 22 successes
+INFO:root:733.3333333333334% success rate for all urls
+INFO:root:0.955908862027255 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 31 urls with 23 successes
+INFO:root:74.19354838709677% success rate for is_flickr urls
+INFO:root:0.9343292091203772 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 5 urls with 23 successes
+INFO:root:460.0% success rate for all urls
+INFO:root:0.9343730470408564 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 32 urls with 24 successes
+INFO:root:75.0% success rate for is_flickr urls
+INFO:root:0.9261666536331178 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 7 urls with 24 successes
+INFO:root:342.85714285714283% success rate for all urls
+INFO:root:0.9262082974116007 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 33 urls with 25 successes
+INFO:root:75.75757575757575% success rate for is_flickr urls
+INFO:root:0.9273596954345703 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 9 urls with 25 successes
+INFO:root:277.77777777777777% success rate for all urls
+INFO:root:0.9273596954345703 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 34 urls with 26 successes
+INFO:root:76.47058823529412% success rate for is_flickr urls
+INFO:root:0.9089144101509681 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 11 urls with 26 successes
+INFO:root:236.36363636363637% success rate for all urls
+INFO:root:0.9089144101509681 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 35 urls with 27 successes
+INFO:root:77.14285714285714% success rate for is_flickr urls
+INFO:root:0.9064998891618516 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 13 urls with 27 successes
+INFO:root:207.69230769230768% success rate for all urls
+INFO:root:0.9065364819985849 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 37 urls with 28 successes
+INFO:root:75.67567567567568% success rate for is_flickr urls
+INFO:root:0.9188372152192252 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 16 urls with 28 successes
+INFO:root:175.0% success rate for all urls
+INFO:root:0.9188372152192252 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 38 urls with 29 successes
+INFO:root:76.3157894736842% success rate for is_flickr urls
+INFO:root:0.9094446856400064 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 18 urls with 29 successes
+INFO:root:161.11111111111111% success rate for all urls
+INFO:root:0.9094755485140043 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 39 urls with 30 successes
+INFO:root:76.92307692307692% success rate for is_flickr urls
+INFO:root:0.906297254562378 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 20 urls with 30 successes
+INFO:root:150.0% success rate for all urls
+INFO:root:0.906297254562378 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 40 urls with 31 successes
+INFO:root:77.5% success rate for is_flickr urls
+INFO:root:0.9035011030012563 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 22 urls with 31 successes
+INFO:root:140.9090909090909% success rate for all urls
+INFO:root:0.9035345508206276 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 41 urls with 32 successes
+INFO:root:78.04878048780488% success rate for is_flickr urls
+INFO:root:0.9005006104707718 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 24 urls with 32 successes
+INFO:root:133.33333333333334% success rate for all urls
+INFO:root:0.9005323573946954 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 42 urls with 33 successes
+INFO:root:78.57142857142857% success rate for is_flickr urls
+INFO:root:0.9024272687507399 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 26 urls with 33 successes
+INFO:root:126.92307692307692% success rate for all urls
+INFO:root:0.9024572372436522 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 43 urls with 34 successes
+INFO:root:79.06976744186046% success rate for is_flickr urls
+INFO:root:0.8995193733888515 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 34 successes
+INFO:root:121.42857142857143% success rate for all urls
+INFO:root:0.8995463287129122 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 44 urls with 35 successes
+INFO:root:79.54545454545455% success rate for is_flickr urls
+INFO:root:0.8859671524592808 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 30 urls with 35 successes
+INFO:root:116.66666666666667% success rate for all urls
+INFO:root:0.8859956468854632 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 45 urls with 36 successes
+INFO:root:80.0% success rate for is_flickr urls
+INFO:root:0.8740199208259581 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 32 urls with 36 successes
+INFO:root:112.5% success rate for all urls
+INFO:root:0.8740340537495084 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 48 urls with 37 successes
+INFO:root:77.08333333333333% success rate for is_flickr urls
+INFO:root:0.879062439944293 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 36 urls with 37 successes
+INFO:root:102.77777777777777% success rate for all urls
+INFO:root:0.879062439944293 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 49 urls with 38 successes
+INFO:root:77.55102040816327% success rate for is_flickr urls
+INFO:root:0.8741929593839144 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 38 urls with 38 successes
+INFO:root:100.0% success rate for all urls
+INFO:root:0.87421925444352 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 50 urls with 39 successes
+INFO:root:78.0% success rate for is_flickr urls
+INFO:root:0.8634629616370568 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 40 urls with 39 successes
+INFO:root:97.5% success rate for all urls
+INFO:root:0.863477994234134 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 53 urls with 40 successes
+INFO:root:75.47169811320755% success rate for is_flickr urls
+INFO:root:0.8787482976913452 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 44 urls with 40 successes
+INFO:root:90.9090909090909% success rate for all urls
+INFO:root:0.8787482976913452 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 54 urls with 41 successes
+INFO:root:75.92592592592592% success rate for is_flickr urls
+INFO:root:0.8775768512632789 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 46 urls with 41 successes
+INFO:root:89.1304347826087% success rate for all urls
+INFO:root:0.8775768512632789 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 55 urls with 42 successes
+INFO:root:76.36363636363636% success rate for is_flickr urls
+INFO:root:0.8721523284912107 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 48 urls with 42 successes
+INFO:root:87.5% success rate for all urls
+INFO:root:0.8721761589958554 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 56 urls with 43 successes
+INFO:root:76.78571428571429% success rate for is_flickr urls
+INFO:root:0.8618615616199584 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 50 urls with 43 successes
+INFO:root:86.0% success rate for all urls
+INFO:root:0.8618818271991818 seconds spent per successful all image download
+INFO:root:Scraping images for class "boat"
+INFO:root:Total URLs to process: 1204
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 57 urls with 44 successes
+INFO:root:77.19298245614036% success rate for is_flickr urls
+INFO:root:0.8867883086204529 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 44 successes
+INFO:root:4400.0% success rate for all urls
+INFO:root:0.8867883086204529 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 58 urls with 45 successes
+INFO:root:77.58620689655173% success rate for is_flickr urls
+INFO:root:0.8793596585591634 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 3 urls with 45 successes
+INFO:root:1500.0% success rate for all urls
+INFO:root:0.8794157822926839 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 59 urls with 46 successes
+INFO:root:77.96610169491525% success rate for is_flickr urls
+INFO:root:0.877436409825864 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 5 urls with 46 successes
+INFO:root:920.0% success rate for all urls
+INFO:root:0.877436409825864 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 60 urls with 47 successes
+INFO:root:78.33333333333333% success rate for is_flickr urls
+INFO:root:0.87590266288595 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 7 urls with 47 successes
+INFO:root:671.4285714285714% success rate for all urls
+INFO:root:0.8759240089578832 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 61 urls with 48 successes
+INFO:root:78.68852459016394% success rate for is_flickr urls
+INFO:root:0.871458480755488 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 9 urls with 48 successes
+INFO:root:533.3333333333334% success rate for all urls
+INFO:root:0.871458480755488 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 63 urls with 49 successes
+INFO:root:77.77777777777777% success rate for is_flickr urls
+INFO:root:0.8752196078397789 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 12 urls with 49 successes
+INFO:root:408.3333333333333% success rate for all urls
+INFO:root:0.8752196078397789 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 66 urls with 50 successes
+INFO:root:75.75757575757575% success rate for is_flickr urls
+INFO:root:0.8934525585174561 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 16 urls with 50 successes
+INFO:root:312.5% success rate for all urls
+INFO:root:0.8934525585174561 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 67 urls with 51 successes
+INFO:root:76.11940298507463% success rate for is_flickr urls
+INFO:root:0.8907290065989775 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 18 urls with 51 successes
+INFO:root:283.3333333333333% success rate for all urls
+INFO:root:0.8907290065989775 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 68 urls with 52 successes
+INFO:root:76.47058823529412% success rate for is_flickr urls
+INFO:root:0.8885453068293058 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 20 urls with 52 successes
+INFO:root:260.0% success rate for all urls
+INFO:root:0.8885453068293058 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 69 urls with 53 successes
+INFO:root:76.81159420289855% success rate for is_flickr urls
+INFO:root:0.8914114034400796 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 22 urls with 53 successes
+INFO:root:240.9090909090909% success rate for all urls
+INFO:root:0.8914114034400796 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 70 urls with 54 successes
+INFO:root:77.14285714285714% success rate for is_flickr urls
+INFO:root:0.8839041259553697 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 24 urls with 54 successes
+INFO:root:225.0% success rate for all urls
+INFO:root:0.8839227667561284 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 71 urls with 55 successes
+INFO:root:77.46478873239437% success rate for is_flickr urls
+INFO:root:0.8762726436961781 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 26 urls with 55 successes
+INFO:root:211.53846153846155% success rate for all urls
+INFO:root:0.8762726436961781 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 72 urls with 56 successes
+INFO:root:77.77777777777777% success rate for is_flickr urls
+INFO:root:0.8761197967188699 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 56 successes
+INFO:root:200.0% success rate for all urls
+INFO:root:0.8761197967188699 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 73 urls with 57 successes
+INFO:root:78.08219178082192% success rate for is_flickr urls
+INFO:root:0.8683780369005705 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 30 urls with 57 successes
+INFO:root:190.0% success rate for all urls
+INFO:root:0.8683946760077226 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 74 urls with 58 successes
+INFO:root:78.37837837837837% success rate for is_flickr urls
+INFO:root:0.8669620711227943 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 32 urls with 58 successes
+INFO:root:181.25% success rate for all urls
+INFO:root:0.8669620711227943 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 75 urls with 59 successes
+INFO:root:78.66666666666667% success rate for is_flickr urls
+INFO:root:0.86649616289947 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 34 urls with 59 successes
+INFO:root:173.52941176470588% success rate for all urls
+INFO:root:0.8665130906185862 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 77 urls with 60 successes
+INFO:root:77.92207792207792% success rate for is_flickr urls
+INFO:root:0.8703092694282532 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 60 successes
+INFO:root:162.16216216216216% success rate for all urls
+INFO:root:0.8703262011210123 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 78 urls with 61 successes
+INFO:root:78.2051282051282% success rate for is_flickr urls
+INFO:root:0.8727661468943613 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 39 urls with 61 successes
+INFO:root:156.4102564102564% success rate for all urls
+INFO:root:0.8727818278015638 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 80 urls with 62 successes
+INFO:root:77.5% success rate for is_flickr urls
+INFO:root:0.8733661059410343 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 62 successes
+INFO:root:147.61904761904762% success rate for all urls
+INFO:root:0.8733661059410343 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 84 urls with 63 successes
+INFO:root:75.0% success rate for is_flickr urls
+INFO:root:0.8879987550160241 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 47 urls with 63 successes
+INFO:root:134.04255319148936% success rate for all urls
+INFO:root:0.8880043029785156 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 85 urls with 64 successes
+INFO:root:75.29411764705883% success rate for is_flickr urls
+INFO:root:0.8805663846433162 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 49 urls with 64 successes
+INFO:root:130.6122448979592% success rate for all urls
+INFO:root:0.8805663846433162 seconds spent per successful all image download
+INFO:root:Scraping images for class "audiotape"
+INFO:root:Total URLs to process: 553
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 86 urls with 65 successes
+INFO:root:75.5813953488372% success rate for is_flickr urls
+INFO:root:0.8983677423917329 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 65 successes
+INFO:root:6500.0% success rate for all urls
+INFO:root:0.8983834963578444 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 87 urls with 66 successes
+INFO:root:75.86206896551724% success rate for is_flickr urls
+INFO:root:0.891069805983341 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 3 urls with 66 successes
+INFO:root:2200.0% success rate for all urls
+INFO:root:0.8910851659196796 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 88 urls with 67 successes
+INFO:root:76.13636363636364% success rate for is_flickr urls
+INFO:root:0.8871813781225858 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 5 urls with 67 successes
+INFO:root:1340.0% success rate for all urls
+INFO:root:0.8871813781225858 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 89 urls with 68 successes
+INFO:root:76.40449438202248% success rate for is_flickr urls
+INFO:root:0.894744757343741 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 7 urls with 68 successes
+INFO:root:971.4285714285714% success rate for all urls
+INFO:root:0.8947580246364369 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 91 urls with 69 successes
+INFO:root:75.82417582417582% success rate for is_flickr urls
+INFO:root:0.8934297147004501 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 10 urls with 69 successes
+INFO:root:690.0% success rate for all urls
+INFO:root:0.8934297147004501 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 93 urls with 70 successes
+INFO:root:75.26881720430107% success rate for is_flickr urls
+INFO:root:0.8916932310376847 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 13 urls with 70 successes
+INFO:root:538.4615384615385% success rate for all urls
+INFO:root:0.8916932310376847 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 94 urls with 71 successes
+INFO:root:75.53191489361703% success rate for is_flickr urls
+INFO:root:0.8854428378629012 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 15 urls with 71 successes
+INFO:root:473.3333333333333% success rate for all urls
+INFO:root:0.8854569414971579 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 95 urls with 72 successes
+INFO:root:75.78947368421052% success rate for is_flickr urls
+INFO:root:0.8846734729078081 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 17 urls with 72 successes
+INFO:root:423.52941176470586% success rate for all urls
+INFO:root:0.8846734729078081 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 96 urls with 73 successes
+INFO:root:76.04166666666667% success rate for is_flickr urls
+INFO:root:0.8822252293155618 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 19 urls with 73 successes
+INFO:root:384.2105263157895% success rate for all urls
+INFO:root:0.8822383325393885 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 97 urls with 74 successes
+INFO:root:76.28865979381443% success rate for is_flickr urls
+INFO:root:0.8776306687174616 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 21 urls with 74 successes
+INFO:root:352.3809523809524% success rate for all urls
+INFO:root:0.8776306687174616 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 98 urls with 75 successes
+INFO:root:76.53061224489795% success rate for is_flickr urls
+INFO:root:0.8734678554534913 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 23 urls with 75 successes
+INFO:root:326.0869565217391% success rate for all urls
+INFO:root:0.8734811973571778 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 100 urls with 76 successes
+INFO:root:76.0% success rate for is_flickr urls
+INFO:root:0.8718210301901165 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 26 urls with 76 successes
+INFO:root:292.3076923076923% success rate for all urls
+INFO:root:0.8718210301901165 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 101 urls with 77 successes
+INFO:root:76.23762376237623% success rate for is_flickr urls
+INFO:root:0.8662056427497369 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 77 successes
+INFO:root:275.0% success rate for all urls
+INFO:root:0.866218662881232 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 102 urls with 78 successes
+INFO:root:76.47058823529412% success rate for is_flickr urls
+INFO:root:0.8650367963008392 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 30 urls with 78 successes
+INFO:root:260.0% success rate for all urls
+INFO:root:0.8650495455815241 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 103 urls with 79 successes
+INFO:root:76.69902912621359% success rate for is_flickr urls
+INFO:root:0.861071293867087 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 32 urls with 79 successes
+INFO:root:246.875% success rate for all urls
+INFO:root:0.861071293867087 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 104 urls with 80 successes
+INFO:root:76.92307692307692% success rate for is_flickr urls
+INFO:root:0.8583778440952301 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 34 urls with 80 successes
+INFO:root:235.2941176470588% success rate for all urls
+INFO:root:0.8583778440952301 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 105 urls with 81 successes
+INFO:root:77.14285714285714% success rate for is_flickr urls
+INFO:root:0.8535722979792842 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 36 urls with 81 successes
+INFO:root:225.0% success rate for all urls
+INFO:root:0.8535722979792842 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 106 urls with 82 successes
+INFO:root:77.35849056603773% success rate for is_flickr urls
+INFO:root:0.84941803536764 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 38 urls with 82 successes
+INFO:root:215.78947368421052% success rate for all urls
+INFO:root:0.8494301830849996 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 107 urls with 83 successes
+INFO:root:77.57009345794393% success rate for is_flickr urls
+INFO:root:0.8476841162486248 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 40 urls with 83 successes
+INFO:root:207.5% success rate for all urls
+INFO:root:0.8476965944451021 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 108 urls with 84 successes
+INFO:root:77.77777777777777% success rate for is_flickr urls
+INFO:root:0.8471348910104661 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 84 successes
+INFO:root:200.0% success rate for all urls
+INFO:root:0.8471469566935584 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 109 urls with 85 successes
+INFO:root:77.98165137614679% success rate for is_flickr urls
+INFO:root:0.8422160513260786 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 44 urls with 85 successes
+INFO:root:193.1818181818182% success rate for all urls
+INFO:root:0.8422277534709257 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 112 urls with 86 successes
+INFO:root:76.78571428571429% success rate for is_flickr urls
+INFO:root:0.8505075365998024 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 48 urls with 86 successes
+INFO:root:179.16666666666666% success rate for all urls
+INFO:root:0.8505075365998024 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 113 urls with 87 successes
+INFO:root:76.99115044247787% success rate for is_flickr urls
+INFO:root:0.8462134174916934 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 50 urls with 87 successes
+INFO:root:174.0% success rate for all urls
+INFO:root:0.8462248889879248 seconds spent per successful all image download
+INFO:root:Scraping images for class "conformation"
+INFO:root:Total URLs to process: 1182
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 114 urls with 88 successes
+INFO:root:77.19298245614036% success rate for is_flickr urls
+INFO:root:0.8627146536653693 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 88 successes
+INFO:root:8800.0% success rate for all urls
+INFO:root:0.8627260408618234 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 116 urls with 89 successes
+INFO:root:76.72413793103448% success rate for is_flickr urls
+INFO:root:0.8679259225223841 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 4 urls with 89 successes
+INFO:root:2225.0% success rate for all urls
+INFO:root:0.8679361932733086 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 117 urls with 90 successes
+INFO:root:76.92307692307692% success rate for is_flickr urls
+INFO:root:0.8647594796286688 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 6 urls with 90 successes
+INFO:root:1500.0% success rate for all urls
+INFO:root:0.8647705078125 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 118 urls with 91 successes
+INFO:root:77.11864406779661% success rate for is_flickr urls
+INFO:root:0.8617566024864113 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 8 urls with 91 successes
+INFO:root:1137.5% success rate for all urls
+INFO:root:0.8617566024864113 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 119 urls with 92 successes
+INFO:root:77.3109243697479% success rate for is_flickr urls
+INFO:root:0.8579822649126467 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 10 urls with 92 successes
+INFO:root:920.0% success rate for all urls
+INFO:root:0.8579822649126467 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 120 urls with 93 successes
+INFO:root:77.5% success rate for is_flickr urls
+INFO:root:0.8576525411298198 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 12 urls with 93 successes
+INFO:root:775.0% success rate for all urls
+INFO:root:0.8576525411298198 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 121 urls with 94 successes
+INFO:root:77.68595041322314% success rate for is_flickr urls
+INFO:root:0.8554317900475036 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 14 urls with 94 successes
+INFO:root:671.4285714285714% success rate for all urls
+INFO:root:0.8554317900475036 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 122 urls with 95 successes
+INFO:root:77.8688524590164% success rate for is_flickr urls
+INFO:root:0.8548778885289242 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 16 urls with 95 successes
+INFO:root:593.75% success rate for all urls
+INFO:root:0.8548778885289242 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 123 urls with 96 successes
+INFO:root:78.04878048780488% success rate for is_flickr urls
+INFO:root:0.854308103521665 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 18 urls with 96 successes
+INFO:root:533.3333333333334% success rate for all urls
+INFO:root:0.854308103521665 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 124 urls with 97 successes
+INFO:root:78.2258064516129% success rate for is_flickr urls
+INFO:root:0.8510329182614985 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 20 urls with 97 successes
+INFO:root:485.0% success rate for all urls
+INFO:root:0.8510329182614985 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 125 urls with 98 successes
+INFO:root:78.4% success rate for is_flickr urls
+INFO:root:0.8508881111534274 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 22 urls with 98 successes
+INFO:root:445.45454545454544% success rate for all urls
+INFO:root:0.8508983047641053 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 126 urls with 99 successes
+INFO:root:78.57142857142857% success rate for is_flickr urls
+INFO:root:0.8506733985862347 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 24 urls with 99 successes
+INFO:root:412.5% success rate for all urls
+INFO:root:0.8506733985862347 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 127 urls with 100 successes
+INFO:root:78.74015748031496% success rate for is_flickr urls
+INFO:root:0.8491420912742614 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 26 urls with 100 successes
+INFO:root:384.61538461538464% success rate for all urls
+INFO:root:0.8491420912742614 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 128 urls with 101 successes
+INFO:root:78.90625% success rate for is_flickr urls
+INFO:root:0.8483621224318401 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 101 successes
+INFO:root:360.7142857142857% success rate for all urls
+INFO:root:0.8483721289304224 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 129 urls with 102 successes
+INFO:root:79.06976744186046% success rate for is_flickr urls
+INFO:root:0.8477788135117176 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 30 urls with 102 successes
+INFO:root:340.0% success rate for all urls
+INFO:root:0.8477886447719499 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 130 urls with 103 successes
+INFO:root:79.23076923076923% success rate for is_flickr urls
+INFO:root:0.8454834836200603 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 32 urls with 103 successes
+INFO:root:321.875% success rate for all urls
+INFO:root:0.8454933143356471 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 131 urls with 104 successes
+INFO:root:79.38931297709924% success rate for is_flickr urls
+INFO:root:0.8424423933029175 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 34 urls with 104 successes
+INFO:root:305.88235294117646% success rate for all urls
+INFO:root:0.8424520194530486 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 132 urls with 105 successes
+INFO:root:79.54545454545455% success rate for is_flickr urls
+INFO:root:0.839359694435483 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 36 urls with 105 successes
+INFO:root:291.6666666666667% success rate for all urls
+INFO:root:0.839369265238444 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 133 urls with 106 successes
+INFO:root:79.69924812030075% success rate for is_flickr urls
+INFO:root:0.8395515275451372 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 38 urls with 106 successes
+INFO:root:278.94736842105266% success rate for all urls
+INFO:root:0.8395609653220988 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 134 urls with 107 successes
+INFO:root:79.85074626865672% success rate for is_flickr urls
+INFO:root:0.8390995631708162 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 40 urls with 107 successes
+INFO:root:267.5% success rate for all urls
+INFO:root:0.839105291901348 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 135 urls with 108 successes
+INFO:root:80.0% success rate for is_flickr urls
+INFO:root:0.836063477728102 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 108 successes
+INFO:root:257.14285714285717% success rate for all urls
+INFO:root:0.8360727274859394 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 136 urls with 109 successes
+INFO:root:80.1470588235294% success rate for is_flickr urls
+INFO:root:0.8321421277632407 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 44 urls with 109 successes
+INFO:root:247.72727272727272% success rate for all urls
+INFO:root:0.8321421277632407 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 137 urls with 110 successes
+INFO:root:80.2919708029197% success rate for is_flickr urls
+INFO:root:0.8288872263648295 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 46 urls with 110 successes
+INFO:root:239.1304347826087% success rate for all urls
+INFO:root:0.8288872263648295 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 138 urls with 111 successes
+INFO:root:80.43478260869566% success rate for is_flickr urls
+INFO:root:0.8254359155087858 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 48 urls with 111 successes
+INFO:root:231.25% success rate for all urls
+INFO:root:0.8254359155087858 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 139 urls with 112 successes
+INFO:root:80.57553956834532% success rate for is_flickr urls
+INFO:root:0.8198729221309934 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 50 urls with 112 successes
+INFO:root:224.0% success rate for all urls
+INFO:root:0.8198818500552859 seconds spent per successful all image download
+INFO:root:Scraping images for class "brazil nut"
+INFO:root:Total URLs to process: 211
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 140 urls with 113 successes
+INFO:root:80.71428571428571% success rate for is_flickr urls
+INFO:root:0.8291385405886489 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 113 successes
+INFO:root:11300.0% success rate for all urls
+INFO:root:0.8291473895047619 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 141 urls with 114 successes
+INFO:root:80.85106382978724% success rate for is_flickr urls
+INFO:root:0.8252791689153303 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 3 urls with 114 successes
+INFO:root:3800.0% success rate for all urls
+INFO:root:0.8252879569405004 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 143 urls with 115 successes
+INFO:root:80.41958041958041% success rate for is_flickr urls
+INFO:root:0.8283175572105076 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 6 urls with 115 successes
+INFO:root:1916.6666666666667% success rate for all urls
+INFO:root:0.8283175572105076 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 145 urls with 116 successes
+INFO:root:80.0% success rate for is_flickr urls
+INFO:root:0.8296885099904291 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 9 urls with 116 successes
+INFO:root:1288.888888888889% success rate for all urls
+INFO:root:0.8296885099904291 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 147 urls with 117 successes
+INFO:root:79.59183673469387% success rate for is_flickr urls
+INFO:root:0.8320901658799913 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 12 urls with 117 successes
+INFO:root:975.0% success rate for all urls
+INFO:root:0.8320901658799913 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 149 urls with 118 successes
+INFO:root:79.19463087248322% success rate for is_flickr urls
+INFO:root:0.8303621098146602 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 15 urls with 118 successes
+INFO:root:786.6666666666666% success rate for all urls
+INFO:root:0.8303705999406717 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 150 urls with 119 successes
+INFO:root:79.33333333333333% success rate for is_flickr urls
+INFO:root:0.8270846815670239 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 17 urls with 119 successes
+INFO:root:700.0% success rate for all urls
+INFO:root:0.8270846815670239 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 152 urls with 120 successes
+INFO:root:78.94736842105263% success rate for is_flickr urls
+INFO:root:0.8255757192770641 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 20 urls with 120 successes
+INFO:root:600.0% success rate for all urls
+INFO:root:0.8255757192770641 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 153 urls with 121 successes
+INFO:root:79.08496732026144% success rate for is_flickr urls
+INFO:root:0.8225369453430177 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 22 urls with 121 successes
+INFO:root:550.0% success rate for all urls
+INFO:root:0.8225369453430177 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 154 urls with 122 successes
+INFO:root:79.22077922077922% success rate for is_flickr urls
+INFO:root:0.8203672444234129 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 24 urls with 122 successes
+INFO:root:508.3333333333333% success rate for all urls
+INFO:root:0.8203672444234129 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 155 urls with 123 successes
+INFO:root:79.35483870967742% success rate for is_flickr urls
+INFO:root:0.8203940158937035 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 26 urls with 123 successes
+INFO:root:473.0769230769231% success rate for all urls
+INFO:root:0.8204165861858583 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 156 urls with 124 successes
+INFO:root:79.48717948717949% success rate for is_flickr urls
+INFO:root:0.8171714140522864 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 124 successes
+INFO:root:442.85714285714283% success rate for all urls
+INFO:root:0.8171714140522864 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 157 urls with 125 successes
+INFO:root:79.61783439490446% success rate for is_flickr urls
+INFO:root:0.8168202667236328 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 30 urls with 125 successes
+INFO:root:416.6666666666667% success rate for all urls
+INFO:root:0.8168202667236328 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 158 urls with 126 successes
+INFO:root:79.74683544303798% success rate for is_flickr urls
+INFO:root:0.8145285901569186 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 32 urls with 126 successes
+INFO:root:393.75% success rate for all urls
+INFO:root:0.8145285901569186 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 159 urls with 127 successes
+INFO:root:79.87421383647799% success rate for is_flickr urls
+INFO:root:0.8114937140247015 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 34 urls with 127 successes
+INFO:root:373.52941176470586% success rate for all urls
+INFO:root:0.8114937140247015 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 161 urls with 128 successes
+INFO:root:79.5031055900621% success rate for is_flickr urls
+INFO:root:0.8142558299005032 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 128 successes
+INFO:root:345.94594594594594% success rate for all urls
+INFO:root:0.8142634816467762 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 163 urls with 129 successes
+INFO:root:79.14110429447852% success rate for is_flickr urls
+INFO:root:0.816406859907993 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 40 urls with 129 successes
+INFO:root:322.5% success rate for all urls
+INFO:root:0.8164108039796814 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 164 urls with 130 successes
+INFO:root:79.26829268292683% success rate for is_flickr urls
+INFO:root:0.8160814138559194 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 130 successes
+INFO:root:309.5238095238095% success rate for all urls
+INFO:root:0.8160892156454232 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 167 urls with 131 successes
+INFO:root:78.44311377245509% success rate for is_flickr urls
+INFO:root:0.8181417279571066 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 46 urls with 131 successes
+INFO:root:284.7826086956522% success rate for all urls
+INFO:root:0.8181417279571066 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 168 urls with 132 successes
+INFO:root:78.57142857142857% success rate for is_flickr urls
+INFO:root:0.8151824546582771 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 48 urls with 132 successes
+INFO:root:275.0% success rate for all urls
+INFO:root:0.8151824546582771 seconds spent per successful all image download
+INFO:root:Scraping images for class "blueberry yogurt"
+INFO:root:Total URLs to process: 282
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 170 urls with 133 successes
+INFO:root:78.23529411764706% success rate for is_flickr urls
+INFO:root:0.824496667187913 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 1 urls with 133 successes
+INFO:root:13300.0% success rate for all urls
+INFO:root:0.824496667187913 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 171 urls with 134 successes
+INFO:root:78.3625730994152% success rate for is_flickr urls
+INFO:root:0.8244965129823827 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 3 urls with 134 successes
+INFO:root:4466.666666666667% success rate for all urls
+INFO:root:0.8245039591148718 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 172 urls with 135 successes
+INFO:root:78.48837209302326% success rate for is_flickr urls
+INFO:root:0.8212499742154723 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 5 urls with 135 successes
+INFO:root:2700.0% success rate for all urls
+INFO:root:0.8212574941140635 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 173 urls with 136 successes
+INFO:root:78.61271676300578% success rate for is_flickr urls
+INFO:root:0.8188866850207833 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 7 urls with 136 successes
+INFO:root:1942.857142857143% success rate for all urls
+INFO:root:0.8188866850207833 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 174 urls with 137 successes
+INFO:root:78.73563218390805% success rate for is_flickr urls
+INFO:root:0.8170580655118845 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 9 urls with 137 successes
+INFO:root:1522.2222222222222% success rate for all urls
+INFO:root:0.8170653555515037 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 175 urls with 138 successes
+INFO:root:78.85714285714286% success rate for is_flickr urls
+INFO:root:0.8153811693191528 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 11 urls with 138 successes
+INFO:root:1254.5454545454545% success rate for all urls
+INFO:root:0.8153811693191528 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 176 urls with 139 successes
+INFO:root:78.97727272727273% success rate for is_flickr urls
+INFO:root:0.8152523160838395 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 13 urls with 139 successes
+INFO:root:1069.2307692307693% success rate for all urls
+INFO:root:0.8152523160838395 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 177 urls with 140 successes
+INFO:root:79.09604519774011% success rate for is_flickr urls
+INFO:root:0.812284505367279 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 15 urls with 140 successes
+INFO:root:933.3333333333334% success rate for all urls
+INFO:root:0.812291657924652 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 178 urls with 141 successes
+INFO:root:79.21348314606742% success rate for is_flickr urls
+INFO:root:0.80920318001551 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 17 urls with 141 successes
+INFO:root:829.4117647058823% success rate for all urls
+INFO:root:0.8092102903000852 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 179 urls with 142 successes
+INFO:root:79.32960893854748% success rate for is_flickr urls
+INFO:root:0.8078833213994201 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 19 urls with 142 successes
+INFO:root:747.3684210526316% success rate for all urls
+INFO:root:0.8078902691182955 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 180 urls with 143 successes
+INFO:root:79.44444444444444% success rate for is_flickr urls
+INFO:root:0.8045095530423251 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 21 urls with 143 successes
+INFO:root:680.952380952381% success rate for all urls
+INFO:root:0.8045095530423251 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 181 urls with 144 successes
+INFO:root:79.55801104972376% success rate for is_flickr urls
+INFO:root:0.8019267105393939 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 23 urls with 144 successes
+INFO:root:626.0869565217391% success rate for all urls
+INFO:root:0.8019267105393939 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 182 urls with 145 successes
+INFO:root:79.67032967032966% success rate for is_flickr urls
+INFO:root:0.8012312231392696 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 25 urls with 145 successes
+INFO:root:580.0% success rate for all urls
+INFO:root:0.8012312231392696 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 183 urls with 146 successes
+INFO:root:79.78142076502732% success rate for is_flickr urls
+INFO:root:0.800520070611614 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 27 urls with 146 successes
+INFO:root:540.7407407407408% success rate for all urls
+INFO:root:0.800520070611614 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 184 urls with 147 successes
+INFO:root:79.8913043478261% success rate for is_flickr urls
+INFO:root:0.7996522455799336 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 29 urls with 147 successes
+INFO:root:506.8965517241379% success rate for all urls
+INFO:root:0.7996522455799336 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 185 urls with 148 successes
+INFO:root:80.0% success rate for is_flickr urls
+INFO:root:0.7997605768409936 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 31 urls with 148 successes
+INFO:root:477.4193548387097% success rate for all urls
+INFO:root:0.7997605768409936 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 186 urls with 149 successes
+INFO:root:80.10752688172043% success rate for is_flickr urls
+INFO:root:0.797104264265739 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 33 urls with 149 successes
+INFO:root:451.5151515151515% success rate for all urls
+INFO:root:0.797104264265739 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 187 urls with 150 successes
+INFO:root:80.21390374331551% success rate for is_flickr urls
+INFO:root:0.7974208450317382 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 35 urls with 150 successes
+INFO:root:428.57142857142856% success rate for all urls
+INFO:root:0.7974208450317382 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 188 urls with 151 successes
+INFO:root:80.31914893617021% success rate for is_flickr urls
+INFO:root:0.7950087540986522 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 151 successes
+INFO:root:408.1081081081081% success rate for all urls
+INFO:root:0.7950087540986522 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 189 urls with 152 successes
+INFO:root:80.42328042328042% success rate for is_flickr urls
+INFO:root:0.7944125972296062 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 39 urls with 152 successes
+INFO:root:389.7435897435897% success rate for all urls
+INFO:root:0.7944125972296062 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 191 urls with 153 successes
+INFO:root:80.10471204188482% success rate for is_flickr urls
+INFO:root:0.7935499537224863 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 153 successes
+INFO:root:364.2857142857143% success rate for all urls
+INFO:root:0.7935564549140681 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 194 urls with 154 successes
+INFO:root:79.38144329896907% success rate for is_flickr urls
+INFO:root:0.7963776789702378 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 46 urls with 154 successes
+INFO:root:334.7826086956522% success rate for all urls
+INFO:root:0.7963841720060868 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 196 urls with 155 successes
+INFO:root:79.08163265306122% success rate for is_flickr urls
+INFO:root:0.795034380882017 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 49 urls with 155 successes
+INFO:root:316.3265306122449% success rate for all urls
+INFO:root:0.7950376464474586 seconds spent per successful all image download
+INFO:root:Scraping images for class "bone"
+INFO:root:Total URLs to process: 1278
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 198 urls with 156 successes
+INFO:root:78.78787878787878% success rate for is_flickr urls
+INFO:root:0.8073247976792164 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 2 urls with 156 successes
+INFO:root:7800.0% success rate for all urls
+INFO:root:0.8073311967727467 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 199 urls with 157 successes
+INFO:root:78.89447236180905% success rate for is_flickr urls
+INFO:root:0.8060340243539993 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 4 urls with 157 successes
+INFO:root:3925.0% success rate for all urls
+INFO:root:0.8060340243539993 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 200 urls with 158 successes
+INFO:root:79.0% success rate for is_flickr urls
+INFO:root:0.8059366488758523 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 6 urls with 158 successes
+INFO:root:2633.3333333333335% success rate for all urls
+INFO:root:0.8059423437601403 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 201 urls with 159 successes
+INFO:root:79.1044776119403% success rate for is_flickr urls
+INFO:root:0.8035361841789581 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 8 urls with 159 successes
+INFO:root:1987.5% success rate for all urls
+INFO:root:0.8035424805287295 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 202 urls with 160 successes
+INFO:root:79.20792079207921% success rate for is_flickr urls
+INFO:root:0.8013253569602966 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 10 urls with 160 successes
+INFO:root:1600.0% success rate for all urls
+INFO:root:0.8013310119509697 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 203 urls with 161 successes
+INFO:root:79.3103448275862% success rate for is_flickr urls
+INFO:root:0.7987001430914269 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 12 urls with 161 successes
+INFO:root:1341.6666666666667% success rate for all urls
+INFO:root:0.7987001430914269 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 205 urls with 162 successes
+INFO:root:79.02439024390245% success rate for is_flickr urls
+INFO:root:0.7994309649055387 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 15 urls with 162 successes
+INFO:root:1080.0% success rate for all urls
+INFO:root:0.7994371696754738 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 206 urls with 163 successes
+INFO:root:79.12621359223301% success rate for is_flickr urls
+INFO:root:0.7983429300273123 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 17 urls with 163 successes
+INFO:root:958.8235294117648% success rate for all urls
+INFO:root:0.7983429300273123 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 207 urls with 164 successes
+INFO:root:79.22705314009661% success rate for is_flickr urls
+INFO:root:0.7965217116402417 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 19 urls with 164 successes
+INFO:root:863.1578947368421% success rate for all urls
+INFO:root:0.7965217116402417 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 208 urls with 165 successes
+INFO:root:79.32692307692308% success rate for is_flickr urls
+INFO:root:0.7941468571171616 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 21 urls with 165 successes
+INFO:root:785.7142857142857% success rate for all urls
+INFO:root:0.7941468571171616 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 209 urls with 166 successes
+INFO:root:79.42583732057416% success rate for is_flickr urls
+INFO:root:0.7939659371433487 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 23 urls with 166 successes
+INFO:root:721.7391304347826% success rate for all urls
+INFO:root:0.7939659371433487 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 212 urls with 167 successes
+INFO:root:78.77358490566037% success rate for is_flickr urls
+INFO:root:0.7982679369920742 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 27 urls with 167 successes
+INFO:root:618.5185185185185% success rate for all urls
+INFO:root:0.7982679369920742 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 213 urls with 168 successes
+INFO:root:78.87323943661971% success rate for is_flickr urls
+INFO:root:0.795748790105184 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 29 urls with 168 successes
+INFO:root:579.3103448275862% success rate for all urls
+INFO:root:0.7957547647612435 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 214 urls with 169 successes
+INFO:root:78.97196261682242% success rate for is_flickr urls
+INFO:root:0.7957076010619395 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 31 urls with 169 successes
+INFO:root:545.1612903225806% success rate for all urls
+INFO:root:0.7957076010619395 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 215 urls with 170 successes
+INFO:root:79.06976744186046% success rate for is_flickr urls
+INFO:root:0.7957188283695894 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 33 urls with 170 successes
+INFO:root:515.1515151515151% success rate for all urls
+INFO:root:0.7957246051115148 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 216 urls with 171 successes
+INFO:root:79.16666666666667% success rate for is_flickr urls
+INFO:root:0.7933761083591752 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 35 urls with 171 successes
+INFO:root:488.57142857142856% success rate for all urls
+INFO:root:0.7933761083591752 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 217 urls with 172 successes
+INFO:root:79.26267281105991% success rate for is_flickr urls
+INFO:root:0.7905225864676542 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 172 successes
+INFO:root:464.86486486486484% success rate for all urls
+INFO:root:0.7905225864676542 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 218 urls with 173 successes
+INFO:root:79.35779816513761% success rate for is_flickr urls
+INFO:root:0.7886516262341097 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 39 urls with 173 successes
+INFO:root:443.5897435897436% success rate for all urls
+INFO:root:0.7886516262341097 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 220 urls with 174 successes
+INFO:root:79.0909090909091% success rate for is_flickr urls
+INFO:root:0.7892927287638872 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 42 urls with 174 successes
+INFO:root:414.2857142857143% success rate for all urls
+INFO:root:0.7892978479122293 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 221 urls with 175 successes
+INFO:root:79.18552036199095% success rate for is_flickr urls
+INFO:root:0.7892313235146659 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 44 urls with 175 successes
+INFO:root:397.72727272727275% success rate for all urls
+INFO:root:0.7892313235146659 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 223 urls with 176 successes
+INFO:root:78.9237668161435% success rate for is_flickr urls
+INFO:root:0.7914236174388365 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 47 urls with 176 successes
+INFO:root:374.468085106383% success rate for all urls
+INFO:root:0.7914290035312826 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 224 urls with 177 successes
+INFO:root:79.01785714285714% success rate for is_flickr urls
+INFO:root:0.789645473835832 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 49 urls with 177 successes
+INFO:root:361.2244897959184% success rate for all urls
+INFO:root:0.789651108326885 seconds spent per successful all image download
+INFO:root:Scraping images for class "hospital bed"
+INFO:root:Total URLs to process: 1301
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 226 urls with 178 successes
+INFO:root:78.76106194690266% success rate for is_flickr urls
+INFO:root:0.7969008001048913 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 2 urls with 178 successes
+INFO:root:8900.0% success rate for all urls
+INFO:root:0.7969008001048913 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 227 urls with 179 successes
+INFO:root:78.8546255506608% success rate for is_flickr urls
+INFO:root:0.7951247545593944 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 4 urls with 179 successes
+INFO:root:4475.0% success rate for all urls
+INFO:root:0.7951247545593944 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 228 urls with 180 successes
+INFO:root:78.94736842105263% success rate for is_flickr urls
+INFO:root:0.793802641497718 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 6 urls with 180 successes
+INFO:root:3000.0% success rate for all urls
+INFO:root:0.7938086178567675 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 229 urls with 181 successes
+INFO:root:79.03930131004367% success rate for is_flickr urls
+INFO:root:0.7941230594782539 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 8 urls with 181 successes
+INFO:root:2262.5% success rate for all urls
+INFO:root:0.7941230594782539 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 231 urls with 182 successes
+INFO:root:78.78787878787878% success rate for is_flickr urls
+INFO:root:0.7966306615661789 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 11 urls with 182 successes
+INFO:root:1654.5454545454545% success rate for all urls
+INFO:root:0.796635621196621 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 232 urls with 183 successes
+INFO:root:78.87931034482759% success rate for is_flickr urls
+INFO:root:0.7964399329951553 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 13 urls with 183 successes
+INFO:root:1407.6923076923076% success rate for all urls
+INFO:root:0.7964454009884694 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 233 urls with 184 successes
+INFO:root:78.96995708154506% success rate for is_flickr urls
+INFO:root:0.7941356495670651 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 15 urls with 184 successes
+INFO:root:1226.6666666666667% success rate for all urls
+INFO:root:0.7941410606322081 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 234 urls with 185 successes
+INFO:root:79.05982905982906% success rate for is_flickr urls
+INFO:root:0.7925882068840233 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 17 urls with 185 successes
+INFO:root:1088.235294117647% success rate for all urls
+INFO:root:0.7925935796789221 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 237 urls with 186 successes
+INFO:root:78.48101265822785% success rate for is_flickr urls
+INFO:root:0.7941722087962653 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 21 urls with 186 successes
+INFO:root:885.7142857142857% success rate for all urls
+INFO:root:0.7941722087962653 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 238 urls with 187 successes
+INFO:root:78.57142857142857% success rate for is_flickr urls
+INFO:root:0.7933613310523212 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 23 urls with 187 successes
+INFO:root:813.0434782608696% success rate for all urls
+INFO:root:0.7933666183349283 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 239 urls with 188 successes
+INFO:root:78.66108786610879% success rate for is_flickr urls
+INFO:root:0.7914055078587634 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 25 urls with 188 successes
+INFO:root:752.0% success rate for all urls
+INFO:root:0.7914055078587634 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 241 urls with 189 successes
+INFO:root:78.42323651452283% success rate for is_flickr urls
+INFO:root:0.7915304640613535 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 28 urls with 189 successes
+INFO:root:675.0% success rate for all urls
+INFO:root:0.7915357584675784 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 242 urls with 190 successes
+INFO:root:78.51239669421487% success rate for is_flickr urls
+INFO:root:0.7913019820263512 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 30 urls with 190 successes
+INFO:root:633.3333333333334% success rate for all urls
+INFO:root:0.7913019820263512 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 243 urls with 191 successes
+INFO:root:78.60082304526749% success rate for is_flickr urls
+INFO:root:0.7913133136889073 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 32 urls with 191 successes
+INFO:root:596.875% success rate for all urls
+INFO:root:0.7913133136889073 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 244 urls with 192 successes
+INFO:root:78.68852459016394% success rate for is_flickr urls
+INFO:root:0.7894494185845057 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 34 urls with 192 successes
+INFO:root:564.7058823529412% success rate for all urls
+INFO:root:0.7894494185845057 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 246 urls with 193 successes
+INFO:root:78.45528455284553% success rate for is_flickr urls
+INFO:root:0.7895390962689651 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 193 successes
+INFO:root:521.6216216216217% success rate for all urls
+INFO:root:0.7895441042944558 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 252 urls with 194 successes
+INFO:root:76.98412698412699% success rate for is_flickr urls
+INFO:root:0.7983503845549121 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 44 urls with 194 successes
+INFO:root:440.90909090909093% success rate for all urls
+INFO:root:0.79835554373633 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 254 urls with 195 successes
+INFO:root:76.77165354330708% success rate for is_flickr urls
+INFO:root:0.7980060858604235 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 47 urls with 195 successes
+INFO:root:414.8936170212766% success rate for all urls
+INFO:root:0.7980117516639905 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 255 urls with 196 successes
+INFO:root:76.86274509803921% success rate for is_flickr urls
+INFO:root:0.7962858141685019 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 49 urls with 196 successes
+INFO:root:400.0% success rate for all urls
+INFO:root:0.7962909426007952 seconds spent per successful all image download
+INFO:root:Scraping images for class "cleat"
+INFO:root:Total URLs to process: 1023
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 257 urls with 197 successes
+INFO:root:76.65369649805447% success rate for is_flickr urls
+INFO:root:0.8040153326721966 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 2 urls with 197 successes
+INFO:root:9850.0% success rate for all urls
+INFO:root:0.8040201542946288 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 258 urls with 198 successes
+INFO:root:76.74418604651163% success rate for is_flickr urls
+INFO:root:0.8040924132472337 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 4 urls with 198 successes
+INFO:root:4950.0% success rate for all urls
+INFO:root:0.8040974140167236 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 261 urls with 199 successes
+INFO:root:76.24521072796935% success rate for is_flickr urls
+INFO:root:0.8096944614870465 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 8 urls with 199 successes
+INFO:root:2487.5% success rate for all urls
+INFO:root:0.8097005058173559 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 263 urls with 200 successes
+INFO:root:76.04562737642586% success rate for is_flickr urls
+INFO:root:0.8112330174446106 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 11 urls with 200 successes
+INFO:root:1818.1818181818182% success rate for all urls
+INFO:root:0.8112384974956512 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 264 urls with 201 successes
+INFO:root:76.13636363636364% success rate for is_flickr urls
+INFO:root:0.809765616459633 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 13 urls with 201 successes
+INFO:root:1546.1538461538462% success rate for all urls
+INFO:root:0.8097706030850388 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 265 urls with 202 successes
+INFO:root:76.22641509433963% success rate for is_flickr urls
+INFO:root:0.8107263038654139 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 15 urls with 202 successes
+INFO:root:1346.6666666666667% success rate for all urls
+INFO:root:0.8107263038654139 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 266 urls with 203 successes
+INFO:root:76.3157894736842% success rate for is_flickr urls
+INFO:root:0.8092591327986693 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 17 urls with 203 successes
+INFO:root:1194.1176470588234% success rate for all urls
+INFO:root:0.8092591327986693 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 267 urls with 204 successes
+INFO:root:76.40449438202248% success rate for is_flickr urls
+INFO:root:0.8091766729074368 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 19 urls with 204 successes
+INFO:root:1073.6842105263158% success rate for all urls
+INFO:root:0.8091766729074368 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 269 urls with 205 successes
+INFO:root:76.2081784386617% success rate for is_flickr urls
+INFO:root:0.8095724826905786 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 22 urls with 205 successes
+INFO:root:931.8181818181819% success rate for all urls
+INFO:root:0.8095773592227843 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 271 urls with 206 successes
+INFO:root:76.01476014760148% success rate for is_flickr urls
+INFO:root:0.8108375118774118 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 25 urls with 206 successes
+INFO:root:824.0% success rate for all urls
+INFO:root:0.810842369366618 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 272 urls with 207 successes
+INFO:root:76.1029411764706% success rate for is_flickr urls
+INFO:root:0.8090710824238505 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 27 urls with 207 successes
+INFO:root:766.6666666666666% success rate for all urls
+INFO:root:0.8090710824238505 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 273 urls with 208 successes
+INFO:root:76.19047619047619% success rate for is_flickr urls
+INFO:root:0.8073161129768077 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 29 urls with 208 successes
+INFO:root:717.2413793103449% success rate for all urls
+INFO:root:0.8073161129768077 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 274 urls with 209 successes
+INFO:root:76.27737226277372% success rate for is_flickr urls
+INFO:root:0.8056065944963665 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 31 urls with 209 successes
+INFO:root:674.1935483870968% success rate for all urls
+INFO:root:0.8056065944963665 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 275 urls with 210 successes
+INFO:root:76.36363636363636% success rate for is_flickr urls
+INFO:root:0.8035957449958437 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 33 urls with 210 successes
+INFO:root:636.3636363636364% success rate for all urls
+INFO:root:0.8035957449958437 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 276 urls with 211 successes
+INFO:root:76.44927536231884% success rate for is_flickr urls
+INFO:root:0.802928923430601 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 35 urls with 211 successes
+INFO:root:602.8571428571429% success rate for all urls
+INFO:root:0.802928923430601 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 277 urls with 212 successes
+INFO:root:76.53429602888086% success rate for is_flickr urls
+INFO:root:0.8029488617519163 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 37 urls with 212 successes
+INFO:root:572.972972972973% success rate for all urls
+INFO:root:0.8029488617519163 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 278 urls with 213 successes
+INFO:root:76.61870503597122% success rate for is_flickr urls
+INFO:root:0.800849029155964 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 39 urls with 213 successes
+INFO:root:546.1538461538462% success rate for all urls
+INFO:root:0.800849029155964 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 279 urls with 214 successes
+INFO:root:76.70250896057348% success rate for is_flickr urls
+INFO:root:0.7991657491042236 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 41 urls with 214 successes
+INFO:root:521.9512195121952% success rate for all urls
+INFO:root:0.7991686736311867 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 280 urls with 215 successes
+INFO:root:76.78571428571429% success rate for is_flickr urls
+INFO:root:0.7986400615337281 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 43 urls with 215 successes
+INFO:root:500.0% success rate for all urls
+INFO:root:0.7986441989277684 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 281 urls with 216 successes
+INFO:root:76.86832740213524% success rate for is_flickr urls
+INFO:root:0.7965915401776632 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 45 urls with 216 successes
+INFO:root:480.0% success rate for all urls
+INFO:root:0.7965957853529189 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 282 urls with 217 successes
+INFO:root:76.95035460992908% success rate for is_flickr urls
+INFO:root:0.7954084950108682 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 47 urls with 217 successes
+INFO:root:461.70212765957444% success rate for all urls
+INFO:root:0.7954084950108682 seconds spent per successful all image download
+INFO:root:STATS For class is_flickr:
+INFO:root: tried 283 urls with 218 successes
+INFO:root:77.03180212014134% success rate for is_flickr urls
+INFO:root:0.7940492575321721 seconds spent per successful is_flickr image download
+INFO:root:STATS For class not_flickr:
+INFO:root: tried 0 urls with 0 successes
+INFO:root:STATS For class all:
+INFO:root: tried 49 urls with 218 successes
+INFO:root:444.8979591836735% success rate for all urls
+INFO:root:0.7940492575321721 seconds spent per successful all image download
+INFO:root:Image scraping completed
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['countrywoman', 'measuring cup', 'mask', 'coast lily', 'basil', 'buzzard', 'indigo bunting', 'goose', 'sour cherry', 'agave']
+INFO:root:Scraping images for class "countrywoman"
+INFO:root:Total URLs to process: 1026
+INFO:root:Scraping images for class "measuring cup"
+INFO:root:Total URLs to process: 1073
+INFO:root:Scraping images for class "mask"
+INFO:root:Total URLs to process: 1217
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['long-eared owl', 'tread', 'wattle', 'tamarin', 'soil horizon', 'flax', 'red-breasted sapsucker', 'butter', 'worsted', 'prickly poppy']
+INFO:root:Scraping images for class "long-eared owl"
+INFO:root:Total URLs to process: 1102
+INFO:root:Scraping images for class "tread"
+INFO:root:Total URLs to process: 1428
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['medlar', 'bicycle', 'chicken salad', 'wringer', 'wedding', 'meadow goldenrod', 'wig', 'billiard player', 'trunk', 'sesame seed']
+INFO:root:Scraping images for class "medlar"
+INFO:root:Total URLs to process: 828
+INFO:root:Scraping images for class "bicycle"
+INFO:root:Total URLs to process: 1344
+INFO:root:Scraping images for class "chicken salad"
+INFO:root:Total URLs to process: 392
+INFO:root:Scraping images for class "wringer"
+INFO:root:Total URLs to process: 802
+INFO:root:Scraping images for class "wedding"
+INFO:root:Total URLs to process: 1257
+INFO:root:Scraping images for class "meadow goldenrod"
+INFO:root:Total URLs to process: 1202
+INFO:root:Scraping images for class "wig"
+INFO:root:Total URLs to process: 1592
+INFO:root:Scraping images for class "billiard player"
+INFO:root:Total URLs to process: 1175
+INFO:root:Scraping images for class "trunk"
+INFO:root:Total URLs to process: 1293
+INFO:root:Scraping images for class "sesame seed"
+INFO:root:Total URLs to process: 1075
+INFO:root:Image scraping completed
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['litchi', 'snakebird', 'starship', 'hop', 'drunkard', 'volleyball', 'sporran', 'lounging jacket', 'Carolina chickadee', 'gearshift', 'alpinist', 'frond', 'commanding officer', 'gherkin', 'baby', 'clementine', 'baboon', 'swamp milkweed', 'background', 'white fir', 'blushing mushroom', 'calamus', 'twenty-two', 'chancel', 'sawhorse', 'orange juice', 'newcomer', 'crib', 'mate', 'uniform', 'handhold', 'pistia', 'rosewood', 'hemp nettle', 'decoupage', 'golden pothos', 'pig bed', 'winner', 'coypu', 'guestroom', 'grampus', 'cur', 'grain', 'European sandpiper', 'ellipse', 'bearing', 'best', 'English setter', 'sluice', 'white admiral', 'gooseneck loosestrife', 'red valerian', 'common brant goose', 'greyhound racing', 'wish-wash', 'heartbreaker', 'dill pickle', 'sweep hand', 'hard-boiled egg', 'instant coffee', 'sympathizer', 'carthorse', 'beer barrel', 'royal fern', 'punter', 'Brittany spaniel', 'kitchen utensil', 'discussant', 'roller blind', 'optical telescope', 'absinth', 'rat kangaroo', 'amphitheater', 'french fries', 'bat boy', 'Speaker', 'penalty box', 'elk', 'dolman', 'stickler', 'coachwhip', 'ragged orchid', 'party', 'earflap', 'constrictor', 'finish coat', 'groined vault', 'skin diving', 'hawkweed', 'postern']
+INFO:root:Scraping images for class "litchi"
+INFO:root:Total URLs to process: 1119
+INFO:root:Scraping images for class "snakebird"
+INFO:root:Total URLs to process: 1572
+INFO:root:Scraping images for class "starship"
+INFO:root:Total URLs to process: 464
+INFO:root:Scraping images for class "hop"
+INFO:root:Total URLs to process: 811
+INFO:root:Scraping images for class "drunkard"
+INFO:root:Total URLs to process: 1342
+INFO:root:Scraping images for class "volleyball"
+INFO:root:Total URLs to process: 1735
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['television monitor', 'goat', 'music teacher', 'Riesling', 'air terminal', 'constrictor', "bird's-nest fungus", 'screw', 'anchor', 'arroz con pollo']
+INFO:root:Scraping images for class "television monitor"
+INFO:root:Total URLs to process: 1287
+INFO:root:Scraping images for class "goat"
+INFO:root:Total URLs to process: 1302
+INFO:root:Scraping images for class "music teacher"
+INFO:root:Total URLs to process: 482
+INFO:root:Scraping images for class "Riesling"
+INFO:root:Total URLs to process: 1230
+INFO:root:Scraping images for class "air terminal"
+INFO:root:Total URLs to process: 1213
+INFO:root:Scraping images for class "constrictor"
+INFO:root:Total URLs to process: 1279
+INFO:root:Scraping images for class "bird's-nest fungus"
+INFO:root:Total URLs to process: 605
+INFO:root:Scraping images for class "screw"
+INFO:root:Total URLs to process: 875
+INFO:root:Scraping images for class "anchor"
+INFO:root:Total URLs to process: 1102
+INFO:root:Scraping images for class "arroz con pollo"
+INFO:root:Total URLs to process: 554
+INFO:root:Image scraping completed
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['knife', 'syringe', 'wood-frog', 'integrated circuit', 'mozzarella', 'walking leaf', 'greyhound', 'calamus', 'beluga', 'milkcap']
+INFO:root:Scraping images for class "knife"
+INFO:root:Total URLs to process: 1855
+INFO:root:Scraping images for class "syringe"
+INFO:root:Total URLs to process: 1289
+INFO:root:Scraping images for class "wood-frog"
+INFO:root:Total URLs to process: 935
+INFO:root:Scraping images for class "integrated circuit"
+INFO:root:Total URLs to process: 1644
+INFO:root:Scraping images for class "mozzarella"
+INFO:root:Total URLs to process: 952
+INFO:root:Scraping images for class "walking leaf"
+INFO:root:Total URLs to process: 285
+INFO:root:Scraping images for class "greyhound"
+INFO:root:Total URLs to process: 1633
+INFO:root:Scraping images for class "calamus"
+INFO:root:Total URLs to process: 361
+INFO:root:Scraping images for class "beluga"
+INFO:root:Total URLs to process: 1379
+INFO:root:Scraping images for class "milkcap"
+INFO:root:Total URLs to process: 679
+INFO:root:Image scraping completed
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet scraper
+INFO:root:Starting ImageNet random image scraper
+INFO:root:Total images needed: 2500
+INFO:root:Starting ImageNet scraper
+INFO:root:Picked classes: ['cassette player', 'basking shark', 'A battery', 'acerola', 'ascidian', 'water gauge', 'airplane propeller', 'first lady', 'Italian parsley', 'pimpernel']
+INFO:root:Scraping images for class "cassette player"
+INFO:root:Total URLs to process: 1010
+INFO:root:Scraping images for class "basking shark"
+INFO:root:Total URLs to process: 724
+INFO:root:Scraping images for class "A battery"
+INFO:root:Total URLs to process: 547
+INFO:root:Scraping images for class "acerola"
+INFO:root:Total URLs to process: 1065
+INFO:root:Scraping images for class "ascidian"
+INFO:root:Total URLs to process: 1087
+INFO:root:Scraping images for class "water gauge"
+INFO:root:Total URLs to process: 911
+INFO:root:Scraping images for class "airplane propeller"
+INFO:root:Total URLs to process: 1728
+INFO:root:Scraping images for class "first lady"
+INFO:root:Total URLs to process: 1234
+INFO:root:Scraping images for class "Italian parsley"
+INFO:root:Total URLs to process: 1075
+INFO:root:Scraping images for class "pimpernel"
+INFO:root:Total URLs to process: 1260
+INFO:root:Image scraping completed
+INFO:root:Starting ImageNet random image scraper
+ERROR:root:Folder output does not exist! Please provide an existing folder in -output_dir arg!
+INFO:root:Starting ImageNet random image scraper
+INFO:root:Total images needed: 20
+INFO:root:Starting ImageNet random image scraper
+INFO:root:Total images needed: 2
