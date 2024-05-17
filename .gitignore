@@ -1,2 +1,4 @@
 # Ignore the imagenet_dataset folder
 imagenet_dataset/
+
+superpixels/

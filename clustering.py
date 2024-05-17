@@ -1,9 +1,10 @@
+import os
 import numpy as np
 from sklearn.cluster import KMeans
 from transformers import  AutoTokenizer, AutoImageProcessor, AutoModel
 import slic_segmentation 
 
-from datastructures import Cluster
+from datastructures import Cluster, save_object, load_object, create_superpixels_directory
 
 def prepare_superpixel_data(images):
     print("Preparing superpixel data for clustering")
@@ -25,8 +26,12 @@ def cluster_superpixels(superpixel_data, n_clusters=25):
 
 def create_clusters(labels, superpixel_objects, n_clusters):
     print("Creating clusters")
+    directory = create_superpixels_directory()
     clusters = [Cluster(cluster_id) for cluster_id in range(n_clusters)]
     for sp, label in zip(superpixel_objects, labels):
+        sp.cluster_label = label
+        sp_filename = os.path.join(directory, f"superpixel_{sp.image_id}_{sp.superpixel_id}.pkl")
+        save_object(sp, sp_filename)
         clusters[label].add_superpixel(sp)
     print(f"Created {len(clusters)} clusters")
     return clusters
@@ -54,6 +59,8 @@ def extract_inception_features(superpixels):
         outputs = model(**inputs)
         feature = outputs.last_hidden_state[:, 1, :].detach().numpy().flatten()
         features.append(feature)
+        print(f"Feature vector shape: {feature.shape}")
+        print(f"Feature vector: {feature.tolist()}")
         sp.feature_vector = feature
     
     print(f"Extracted features for {len(features)} superpixels")
