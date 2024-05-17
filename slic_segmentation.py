@@ -3,38 +3,8 @@ import numpy as np
 from skimage import io, segmentation
 from skimage.util import img_as_float
 from concurrent.futures import ThreadPoolExecutor
-import matplotlib.pyplot as plt
-
-class Superpixel:
-    def __init__(self, superpixel_id, image_id, original_data, padded_data):
-        self.superpixel_id = superpixel_id
-        self.image_id = image_id
-        self.original_data = original_data
-        self.padded_data = padded_data
-
-class Image:
-    def __init__(self, image_id, image_data):
-        self.image_id = image_id
-        self.image_data = image_data
-        self.superpixels = []
-
-    def add_superpixel(self, superpixel):
-        self.superpixels.append(superpixel)
-    
-    def display_superpixels(self):
-        fig, ax = plt.subplots(1, 2, figsize=(12, 6))
-        
-        # Display the original image with superpixel boundaries
-        image_with_boundaries = segmentation.mark_boundaries(self.image_data, self.superpixels_mask)
-        ax[0].imshow(image_with_boundaries)
-        ax[0].set_title(f'Original Image with Superpixels - {self.image_id}')
-        
-        # Display the padded superpixels
-        for i, sp in enumerate(self.superpixels):
-            fig, ax = plt.subplots(1, 1, figsize=(6, 6))
-            ax.imshow(sp.padded_data)
-            ax.set_title(f'Padded Superpixel {i} - {self.image_id}')
-            plt.show()
+from skimage.transform import resize
+from datastructures import Image, Superpixel
 
 def load_images_from_folder(folder_path):
     images = []
@@ -47,27 +17,32 @@ def load_images_from_folder(folder_path):
     print(f"Loaded {len(images)} images from {folder_path}")
     return images
 
-def pad_superpixel(pixel_data, mask, padded_size=(255, 255, 3)):
-    padded_image = np.full(padded_size, 0.5)  # Grey background
+def pad_superpixel(pixel_data, mask, padded_size=(299, 299, 3)):
+    # Calculate bounding box of the superpixel
     mask_indices = np.where(mask)
     min_x, min_y = mask_indices[0].min(), mask_indices[1].min()
     max_x, max_y = mask_indices[0].max(), mask_indices[1].max()
     width, height = max_x - min_x + 1, max_y - min_y + 1
 
+    # Create the background with gray scale value 117.5
+    gray_value = 117.5 / 255.0
+    background_size = max(width, height)
+    background = np.full((background_size, background_size, 3), gray_value)
+
     # Extract the bounding box of the superpixel
-    superpixel_data = np.zeros((width, height, 3))
+    superpixel_data = np.full((width, height, 3), gray_value)
     for i in range(3):
-        superpixel_data[:, :, i] = pixel_data[min_x:max_x+1, min_y:max_y+1, i] * mask[min_x:max_x+1, min_y:max_y+1]
+        channel = pixel_data[min_x:max_x+1, min_y:max_y+1, i]
+        superpixel_data[:, :, i] = np.where(mask[min_x:max_x+1, min_y:max_y+1], channel, gray_value)
     
-    start_x = (padded_size[0] - width) // 2
-    start_y = (padded_size[1] - height) // 2
-    
-    # Ensure the dimensions match
-    if (start_x + width) <= padded_size[0] and (start_y + height) <= padded_size[1]:
-        padded_image[start_x:start_x+width, start_y:start_y+height, :] = superpixel_data
-    else:
-        print(f"Skipping superpixel due to dimension mismatch: {width}x{height} cannot fit in {padded_size}")
-    
+    # Place the superpixel in the center of the background
+    start_x = (background_size - width) // 2
+    start_y = (background_size - height) // 2
+    background[start_x:start_x+width, start_y:start_y+height, :] = superpixel_data
+
+    # Resize the background to the padded size
+    padded_image = resize(background, padded_size, anti_aliasing=True)
+
     return padded_image
 
 def create_superpixels(image, n_segments=100):
@@ -87,19 +62,22 @@ def create_superpixels(image, n_segments=100):
 
 def extract_superpixels_from_images(images):
     with ThreadPoolExecutor() as executor:
+        all_superpixels_for_class = []
         futures = {executor.submit(create_superpixels, image): image for image in images}
         for future in futures:
             image = futures[future]
             superpixels = future.result()
             for sp in superpixels:
                 image.add_superpixel(sp)
+                all_superpixels_for_class.append(sp)
     print("Superpixels extracted for all images")
+    return all_superpixels_for_class
 
 # Main function
 def main(folder_path):
     images = load_images_from_folder(folder_path)
-    extract_superpixels_from_images(images)
-    return images
+    all_superpixels_for_class = extract_superpixels_from_images(images)
+    return images, all_superpixels_for_class
 
 # Example usage
 if __name__ == "__main__":

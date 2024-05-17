@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 from scipy.spatial.distance import euclidean
 
 
-from .b_slic_segmentation import perform_slic, resize_and_pad_segments, img_as_float
+from .slic_segmentation import perform_slic, resize_and_pad_segments, img_as_float
 
 # Define constants
 TARGET_SIZE = (299, 299)
